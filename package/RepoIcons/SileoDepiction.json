@@ -1,0 +1,56 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://zinaungnyein.github.io/package/RepoIcons/SileoBanner.jpg",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Po's repo icons collection",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Repo icons for all categories",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.0",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "31-07-2020",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Free",
+                    "title": "Price",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Po",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ],
+    "tintColor": "#467546",
+    "minVersion": "0.1"
+}

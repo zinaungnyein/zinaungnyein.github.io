@@ -1,0 +1,154 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://zinaungnyein.github.io/package/FBDarkMode/SileoBanner.jpg",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Facebook Dark Mode",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "A tweak that enables Facebook Dark Mode Option under Facebook Application settings.",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemCornerRadius": 4.5,
+                    "itemSize": "{215, 360.41333333333336}",
+                    "screenshots": [
+                        {
+                            "url": "https://zinaungnyein.github.io/package/FBDarkMode/1.png",
+                            "accessibilityText": "Screenshot0"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/FBDarkMode/2.png",
+                            "accessibilityText": "Screenshot1"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/FBDarkMode/3.png",
+                            "accessibilityText": "Screenshot2"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/FBDarkMode/4.png",
+                            "accessibilityText": "Screenshot3"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/FBDarkMode/5.png",
+                            "accessibilityText": "Screenshot4"
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "# Facebook Dark Mode Enabler\r\n\r\n\r\n\r\n\n\n**Homescreen Options:**\r\n*  System Dark Mode\r\n*  Easy to switch between appearances\r\n*  This script is done by myself\r\n\r\n\r\n\r\nThanks for using!",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.0",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "July 21, 2020",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Free",
+                    "title": "Price",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "iOS 13-13.6",
+                    "title": "Compatibility",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Zin Aung Nyein",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ]
+        },
+        {
+            "tabname": "Changes",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "title": "What's New:",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Update Changes:\r\n\r\n* Added latest facebook version support\r\n* Fix Livestream bugs\r\n* Fix UI Nav Bars",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 05/08/20</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "1.0:",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Release:\r\n\r\n* Bugs fixed.",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 21/07/20</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                }
+            ]
+        }
+    ],
+    "tintColor": "#5e9e95",
+    "minVersion": "0.1"
+}

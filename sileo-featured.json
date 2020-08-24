@@ -1,0 +1,25 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{296, 148}",
+    "itemCornerRadius": 12,
+    "banners": [
+      {
+        "url": "https://zinaungnyein.github.io/package/FBDarkMode/SileoBanner.jpg",
+        "title": "Facebook Dark Mode",
+        "package": "com.thefatrat.facebooksystemdarkmode",
+        "hideShadow": false
+      },
+      {
+        "url": "https://zinaungnyein.github.io/package/Cylinder/SileoBanner.jpg",
+        "title": "Cylinder",
+        "package": "com.thefatrat.cylinder",
+        "hideShadow": false
+      },
+      {
+        "url": "https://zinaungnyein.github.io/package/CircleIcons/SileoBanner.jpg",
+        "title": "Circle Icons",
+        "package": "com.thefatrat.circleicons",
+        "hideShadow": false
+      }
+    ]
+  }

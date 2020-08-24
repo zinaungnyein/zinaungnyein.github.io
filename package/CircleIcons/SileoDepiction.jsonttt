@@ -1,0 +1,158 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://zinaungnyein.github.io/package/CircleIcons/SileoBanner.jpg",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Circle Icons",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Circle Icons with cool overlays!",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemCornerRadius": 12,
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "url": "https://zinaungnyein.github.io/package/CircleIcons/1.png",
+                            "accessibilityText": "Screenshot0"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/CircleIcons/2.png",
+                            "accessibilityText": "Screenshot1"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/CircleIcons/3.png",
+                            "accessibilityText": "Screenshot2"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/CircleIcons/4.png",
+                            "accessibilityText": "Screenshot3"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/CircleIcons/5.png",
+                            "accessibilityText": "Screenshot4"
+                        }
+                        {
+                            "url": "https://zinaungnyein.github.io/package/CircleIcons/6.png",
+                            "accessibilityText": "Screenshot5"
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Anemone icon AE theming created by CoolStar.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.3.2",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Nov 23, 2015",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Free",
+                    "title": "Price",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "iOS 11-13.6",
+                    "title": "Compatibility",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "CoolStar",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ]
+        },
+        {
+            "tabname": "Changes",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "title": "What's New:",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Update Changes:\r\n\r\n* No changes were reported for this version.",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 23/11/15</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "1.3.2:",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Release:\r\n\r\n* Bugs fixed.",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 23/11/15</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                }
+            ]
+        }
+    ],
+    "tintColor": "#5e9e95",
+    "minVersion": "0.1"
+}
