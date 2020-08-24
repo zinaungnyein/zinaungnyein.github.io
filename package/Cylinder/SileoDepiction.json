@@ -8,7 +8,7 @@
             "views": [
                 {
                     "itemCornerRadius": 4.5,
-                    "itemSize": "{100, 360}",
+                    "itemSize": "{70, 360}",
                     "screenshots": [
                         {
                             "url": "https://zinaungnyein.github.io/package/Cylinder/1.png",
