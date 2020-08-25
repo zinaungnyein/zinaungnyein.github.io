@@ -51,8 +51,8 @@ Essential: yes
 Maintainer: Po
 Architecture: iphoneos-arm
 Filename: package/RepoIcons/com.po.repoicon.deb
-Size: 62286
-MD5sum: 8fab2e6d783e8d86a367cfd31ba72439
+Size: 62288
+MD5sum: 35822be383741eb0eac53a3aafad9daa
 Description: Official Po's Repo Icons
 Name: Repo Icons
 Author: Po
