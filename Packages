@@ -50,9 +50,9 @@ Section: System
 Essential: yes
 Maintainer: Po
 Architecture: iphoneos-arm
-Filename: package/RepoIcons/com.zinaungnyein.icone.deb
-Size: 3286868
-MD5sum: ea4a9d485912d170ebc11b6e96561021
+Filename: package/RepoIcons/com.po.repoicons.deb
+Size: 3286884
+MD5sum: f7d2501fecd9e2c069beb4d3ff154fd1
 Description: Official Po's Repo Icons
 Name: Repo Icons
 Author: Po
