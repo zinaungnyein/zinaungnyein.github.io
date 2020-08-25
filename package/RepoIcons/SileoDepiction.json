@@ -13,7 +13,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Repo icons for all categories",
+                    "markdown": "Repo icons for all categories\r\n NOTE: If you get HashSum Errors when installing, please disable Cydown and try again, it should be working.\r\n\r\n### You can report to me any bugs via zinaungnyein@icloud.fom.",
                     "useSpacing": true
                 },
                 {
