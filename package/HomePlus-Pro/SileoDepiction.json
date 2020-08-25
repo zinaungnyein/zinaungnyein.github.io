@@ -39,7 +39,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "# Cylinder\r\n### This tweak adds graphic effects to your icon pages as you scroll through the homescreen.\r\n\r\n</br>\r\nFeatures include:\r\n\r\n* Homescreen animation scroll effects\r\n* 58 different styles you can choose\r\n* If you take combinations into account, then there are 35,184,372,088,832 effects.\r\n* If, for some reason, these 35,184,372,088,832 animations do not satisfy your needs, then you can code your own animations using Lua! Effect scripts are stored in Library>Cylinder.\r\n* You can also make script requests on reddit if you don't know how to computer. People also sometimes post cool combinations there too.\r\n* Configure options from Settings.",
+                    "markdown": "# HomePlus Pro\r\n### HomeScreen customisable tools you've ever imagined\r\n\r\n</br>\r\nFeatures are as below:\r\n\r\n* Better User Experience\r\n* Access a wide variety of Homescreen customizations\r\n* Horizontal & Vertical Offsets Adjustability \r\n* Columns & rows adjustability\r\n* Pagebar extension added",
                     "useSpacing": true
                 },
                 {
@@ -55,7 +55,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "Nov 18, 2019",
+                    "text": "July 25, 2020",
                     "title": "Released",
                     "class": "DepictionTableTextView"
                 },
@@ -73,7 +73,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "iOS 7-13.6",
+                    "text": "iOS 13-13.6",
                     "title": "Compatibility",
                     "class": "DepictionTableTextView"
                 },
@@ -82,7 +82,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "Reed Weichler",
+                    "text": "Kritanta",
                     "title": "Developer",
                     "class": "DepictionTableTextView"
                 },
@@ -103,12 +103,12 @@
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "Update Changes:\r\n\r\n* iOS13 support\r\n* A12 support",
+                    "markdown": "Update Changes:\r\n\r\n* Fix a Bundle Filter issue users with CrashReporter installed experienced\r\n* improve Evaluation Mode clarity\r\n* DRM Removed",
                     "useSpacing": false,
                     "class": "DepictionMarkdownView"
                 },
                 {
-                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 18/11/19</small>",
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 25/07/20</small>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -116,18 +116,18 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "title": "1.1:",
+                    "title": "1.2.4-finale:",
                     "useBoldText": true,
                     "useBottomMargin": true,
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "Release:\r\n\r\n* Bugs fixed.",
+                    "markdown": "Release:\r\n\r\n* No changes were reported for initial release.",
                     "useSpacing": false,
                     "class": "DepictionMarkdownView"
                 },
                 {
-                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 18/11/19</small>",
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 07/25/20</small>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
                 },
