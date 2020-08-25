@@ -5,12 +5,13 @@ Maintainer: CoolStar <zinaungnyein@icloud.com>
 Depends: com.anemonetheming.anemone
 Architecture: iphoneos-arm
 Filename: package/CircleIcons/CircleIcons.deb
-Size: 106000
-MD5sum: 57094c56d8de8e09f3db467e7bae7552
+Size: 106032
+MD5sum: 937f5afee77bcf3d4f8e53801e3cab57
 Description: Circle Icons with cool overlays!
 Name: CircleIcons
 Author: CoolStar <zinaungnyein@icloud.com>
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/CircleIcons/SileoDepiction.json&name=CircleIcons&section=Themes&dev=coolstar
+Icon: file:///Applications/Cydia.app/Sections/Themes0.png
 
 Package: com.thefatrat.cylinder
 Version: 1.1
@@ -19,14 +20,14 @@ Maintainer: Po
 Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm
 Filename: package/Cylinder/Cylinder.deb
-Size: 502376
+Size: 502366
 Installed-Size: 1419
-MD5sum: 728670480c92f44ffec77f4e7dfc987a
+MD5sum: fe1d59df5d50f88dfa817a8c7e03c8fe
 Description: Make your icons dance
 Name: Cylinder
 Author: Reed Weichler
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Cylinder/SileoDepiction.json&name=Cylinder&section=Tweaks&dev=ReedWeichler
-Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
+Icon: file:///Applications/Cydia.app/Sections/Tweaks0.png
 
 Package: com.thefatrat.facebooksystemdarkmode
 Version: 1.0
@@ -36,13 +37,14 @@ Depends: firmware (>=11), file-cmds
 Conflicts: com.hackyouriphone.fbdarkmode
 Architecture: iphoneos-arm
 Filename: package/FBDarkMode/FBDarkMode.deb
-Size: 8862
+Size: 8886
 Installed-Size: 104
-MD5sum: 3131a872e2e0acb7de5992799bcf7614
+MD5sum: a85c80bb26fac374a072bf555d573ab9
 Description: A tweak that enables Facebook Dark Mode Option under Facebook Application settings.
 Name: Facebook Dark Mode Enabler
 Author: Zin Aung Nyein
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/FBDarkMode/SileoDepiction.json&name=FBDarkMode&section=Themes&dev=ZinAungNyein
+Icon: file:///Applications/Cydia.app/Sections/Themes0.png
 
 Package: com.zinaungnyein.icone
 Version: 1.0
@@ -51,8 +53,8 @@ Essential: yes
 Maintainer: Po
 Architecture: iphoneos-arm
 Filename: package/RepoIcons/com.po.repoicon.deb
-Size: 62288
-MD5sum: 35822be383741eb0eac53a3aafad9daa
+Size: 440314
+MD5sum: 101589c0c4300c9fb8b08a53443a6f91
 Description: Official Po's Repo Icons
 Name: Repo Icons
 Author: Po
