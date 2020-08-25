@@ -149,10 +149,6 @@
                 {
                     "class": "DepictionSeparatorView"
                 }
-                {
-                    "spacing": 10,
-                    "class": "DepictionSpacerView"
-                }
             ]
         }
     ],
