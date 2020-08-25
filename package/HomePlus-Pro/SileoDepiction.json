@@ -7,8 +7,8 @@
             "class": "DepictionStackView",
             "views": [
                 {
-                    "itemCornerRadius": 5.5,
-                    "itemSize": "{100, 340}",
+                    "itemCornerRadius": 8,
+                    "itemSize": "{100, 300}",
                     "screenshots": [
                         {
                             "url": "https://zinaungnyein.github.io/package/HomePlus-Pro/1.png",
