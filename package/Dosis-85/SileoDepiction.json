@@ -31,7 +31,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "# Dosis\r\n This is 85%. If you'd love to prefer 100% size, please download 100% size in the Fonts section from my repo.\n\n\n</br>### In addition: 85% is normal character size while 100% is bigger.\n\n\n<br>Requirements: SnowBoard (recommended), A-Font, iThemer",
+                    "markdown": "# Dosis\r\n This is 85%. If you'd love to prefer 100% size, please download 100% size in the Fonts section from my repo.\r\n\r\n### In addition: 85% is normal character size while 100% is bigger.\n\n\n<br>Requirements: SnowBoard (recommended), A-Font, iThemer",
                     "useSpacing": true
                 },
                 {
