@@ -1,3 +1,17 @@
+Package: com.po.dosis85
+Version: 1.0
+Section: Fonts (iOS13)
+Maintainer: Alexman
+Architecture: iphoneos-arm
+Filename: package/Dosis-85/Dosis-85.deb
+Size: 27409858
+MD5sum: 3cdd3bc6e9c3a98ea4c2036bfd082875
+Description: Dosis font. 85% size. For iOS13.
+Name: Dosis (iOS13)
+Author: Alexman
+Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Dosis-85/SileoDepiction.json&name=Dosis-85&section=Fonts&dev=Alexman
+Icon: file:///Applications/Cydia.app/Sections/Fonts0.png
+
 Package: com.po.homepluspro
 Version: 1.2.4-finale
 Section: Tools
