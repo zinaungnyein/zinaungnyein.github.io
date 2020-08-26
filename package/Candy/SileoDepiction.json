@@ -106,7 +106,7 @@
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "Initial release:\r\n\r\n* No changed were reported for this version.",
+                    "markdown": "Initial release:\r\n\r\nNo changes were reported for this version.",
                     "useSpacing": false,
                     "class": "DepictionMarkdownView"
                 },
