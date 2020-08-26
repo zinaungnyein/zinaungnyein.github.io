@@ -1,3 +1,17 @@
+Package: com.po.candystatusbar
+Version: 1.0
+Section: Carrier (Themes)
+Maintainer: Devy_Design <idrainmax@gmail.com>
+Architecture: iphoneos-arm
+Filename: package/Candy/Candy.deb
+Size: 2159658
+MD5sum: 63518274019f3fa3d50ed8955c3026bc
+Description: Make Your Status Bar Sweet Like a Candy.
+Name: Candy Status Bar
+Author: Devy_Design <idrainmax@gmail.com>
+Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Candy/SileoDepiction.json&name=CandyStatusBar&section=Carrier&dev=Devy_Design
+Icon: file:///Applications/Cydia.app/Sections/Carrier0.png
+
 Package: com.po.dosis100
 Version: 1.0
 Section: Fonts (iOS13)
