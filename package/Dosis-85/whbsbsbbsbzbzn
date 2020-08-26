@@ -35,11 +35,6 @@
                     "useSpacing": true
                 },
                 {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Get these from [(Spark Repo)](https://sparkdev.me)",
-                    "useSpacing": false
-                },
-                {
                     "class": "DepictionSeparatorView"
                 },
                 {
