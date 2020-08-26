@@ -40,6 +40,21 @@
                     "useSpacing": false
                 },
                 {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<p style='color:#ff325b;'><u>A-Font</u></p>",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Get these from [(Merona Repo)](https://repo.rpgfarm.com)",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Follow [(this tutorial)](https://youtu.be/YBdghFpm8h4) to apply fonts if you are new to A-Font",
+                    "useSpacing": false
+                },
+                {
                     "class": "DepictionSeparatorView"
                 },
                 {
