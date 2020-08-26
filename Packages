@@ -1,3 +1,17 @@
+Package: com.po.dosis100
+Version: 1.0
+Section: Fonts (iOS13)
+Maintainer: Alexman
+Architecture: iphoneos-arm
+Filename: package/Dosis-100/Dosis-100.deb
+Size: 26104522
+MD5sum: 926a19319bb346ba6cb8679e139130cb
+Description: Dosis font. 100% size. For iOS13.
+Name: Dosis_100% (iOS13)
+Author: Alexman
+Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Dosis-100/SileoDepiction.json&name=Dosis-100&section=Fonts&dev=Alexman
+Icon: file:///Applications/Cydia.app/Sections/Fonts0.png
+
 Package: com.po.dosis85
 Version: 1.0
 Section: Fonts (iOS13)
