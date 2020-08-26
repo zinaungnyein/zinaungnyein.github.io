@@ -8,7 +8,7 @@
             "views": [
                 {
                     "itemCornerRadius": 4.5,
-                    "itemSize": "{70, 360}",
+                    "itemSize": "{170, 350.41333333333336}",
                     "screenshots": [
                         {
                             "url": "https://zinaungnyein.github.io/package/Candy/1.png",
@@ -22,8 +22,24 @@
                     "class": "DepictionScreenshotsView"
                 },
                 {
+                    "class": "DepictionHeaderView",
+                    "title": "Candy Status Bar",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Make Your Device Sweet like Candy.",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "useSpacing": true,
+                    "class": "DepictionSpacerView"
+                },
+                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<h1>Candy Status Bar</h1>\r\n## Make Your Device Sweet like Candy.\r\n\r\nCarefully redesign Cellular, Wifi & LTE icons with magic of Colour Gradient.\r\n\r\n Candy Style Battery pack crafted carefully maintaining your every percentage on Draining & Charging of battery.",
+                    "markdown": "# Anemone AE theme\r\n### Customizable AE\r\n\r\n\r\n\r\n\n\n**SnowBoard recommended:**\r\n*  SnowBoard Icon Mask\r\n*  SnowBoard Icon Effects\r\n*  Anemone\r\n*  iThemer",
                     "useSpacing": true
                 },
                 {
@@ -57,7 +73,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "iOS 5.1-13.6.1",
+                    "text": "iOS 5.1-13.6",
                     "title": "Compatibility",
                     "class": "DepictionTableTextView"
                 },
@@ -66,7 +82,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "Devy_Design",
+                    "text": "Devy Design",
                     "title": "Developer",
                     "class": "DepictionTableTextView"
                 },
@@ -90,12 +106,31 @@
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "Initial Release:\r\n\r\n* No changes were reported for this version.",
+                    "markdown": "Update Changes:\r\n\r\n* Added green color overlay\r\n* Added pink color overlay\r\n* Added blue color overlay",
                     "useSpacing": false,
                     "class": "DepictionMarkdownView"
                 },
                 {
-                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Release 25/08/20</small>",
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 23/11/15</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "1.3.2:",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Release:\r\n\r\n* Bugs fixed.",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 23/11/15</small>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
                 },
