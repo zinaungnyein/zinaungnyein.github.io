@@ -100,18 +100,18 @@
             "class": "DepictionStackView",
             "views": [
                 {
-                    "title": "What's New:",
+                    "title": "Version 1.0",
                     "useBoldText": true,
                     "useBottomMargin": true,
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "Initial release:\r\n\r\nNo changes were reported for this version.",
+                    "markdown": "Initial Release.",
                     "useSpacing": false,
                     "class": "DepictionMarkdownView"
                 },
                 {
-                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Release 25/08/20</small>",
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 25/08/20</small>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
                 },
