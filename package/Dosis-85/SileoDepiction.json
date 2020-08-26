@@ -46,13 +46,23 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Get these from [(Merona Repo).](https://repo.rpgfarm.com)",
+                    "markdown": "Get this from [(Merona Repo).](https://repo.rpgfarm.com)",
                     "useSpacing": true
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Follow [(this tutorial)](https://youtu.be/YBdghFpm8h4) to apply fonts if you are new to A-Font.",
+                    "markdown": "Follow [(this tutorial)](https://m.youtube.com/watch?feature=youtu.be&v=YBdghFpm8h4) to apply fonts if you are new to A-Font.\r\n\n</br>",
                     "useSpacing": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<p style='color:#ff325b;'><u>iThemer</u></p>",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Get this from [(Packix Repo).](https://repo.packix.com)",
+                    "useSpacing": true
                 },
                 {
                     "class": "DepictionSeparatorView"
