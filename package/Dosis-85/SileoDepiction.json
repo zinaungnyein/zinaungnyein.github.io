@@ -31,7 +31,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<h1>Dosis</h1>\r\n This is 85%. If you'd love to prefer 100% size, please download 100% size in the Fonts section from my repo.\r\n\r\n#### In addition: 85% is normal character size while 100% is bigger.\r\n\r\n<p style='color:#ff325b;'>Requirements: SnowBoard (recommended), A-Font, iThemer</p>\r\n\r\n\r\n\n</br><p style='color:#ff325b;'><u>SnowBoard</u></p>\r\n</br>INSTALL:\r\n\r\n* SnowBoard Application\r\n* SnowBoard Fonts Extension\r\n\r\nGet these from [(Spark Repo)](https://sparkdev.me)\r\n\(Fonts will be installed to Library>Themes>Fonts name)",
+                    "markdown": "<h1>Dosis</h1>\r\n This is 85%. If you'd love to prefer 100% size, please download 100% size in the Fonts section from my repo.\r\n\r\n#### In addition: 85% is normal character size while 100% is bigger.\r\n\r\n<p style='color:#ff325b;'>Requirements: SnowBoard (recommended), A-Font, iThemer</p>\r\n\r\n\r\n\n</br><p style='color:#ff325b;'><u>SnowBoard</u></p>\r\n</br>INSTALL:\r\n\r\n* SnowBoard Application\r\n* SnowBoard Fonts Extension\r\n\r\nGet these from [(Spark Repo)](https://sparkdev.me)\r\n\Fonts will be installed to Library>Themes>Fonts name",
                     "useSpacing": true
                 },
                 {
