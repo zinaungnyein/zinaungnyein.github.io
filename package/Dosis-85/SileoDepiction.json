@@ -46,12 +46,12 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Get these from [(Merona Repo.)](https://repo.rpgfarm.com)",
+                    "markdown": "Get these from [(Merona Repo).](https://repo.rpgfarm.com)",
                     "useSpacing": true
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Follow [(this tutorial.)](https://youtu.be/YBdghFpm8h4) to apply fonts if you are new to A-Font.",
+                    "markdown": "Follow [(this tutorial)](https://youtu.be/YBdghFpm8h4) to apply fonts if you are new to A-Font.",
                     "useSpacing": false
                 },
                 {
