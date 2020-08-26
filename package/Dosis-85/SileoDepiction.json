@@ -36,7 +36,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Get these from [(Spark Repo.)](https://sparkdev.me) \r\n</br>(Fonts will be installed to Library>Themes>Fonts name)\r\n\n</br>",
+                    "markdown": "Get these from [(Spark Repo).](https://sparkdev.me) \r\n</br>(Fonts will be installed to Library>Themes>Fonts name)\r\n\n</br>",
                     "useSpacing": false
                 },
                 {
