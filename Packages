@@ -93,14 +93,12 @@ Version: 1.0
 Section: Tweaks
 Maintainer: Zin Aung Nyein
 Depends: firmware (>=11), file-cmds
-Conflicts: com.hackyouriphone.fbdarkmode
 Architecture: iphoneos-arm
 Filename: package/FBDarkMode/FBDarkMode.deb
-Size: 8886
-Installed-Size: 104
-MD5sum: a85c80bb26fac374a072bf555d573ab9
+Size: 8856
+MD5sum: 247c0592d5870f8ea7ca9095204f05f6
 Description: A tweak that enables Facebook Dark Mode Option under Facebook Application settings.
-Name: Facebook Dark Mode Enabler
+Name: FB Dark Mode
 Author: Zin Aung Nyein
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/FBDarkMode/SileoDepiction.json&name=FBDarkMode&section=Themes&dev=ZinAungNyein
 Icon: file:///Applications/Cydia.app/Sections/Themes0.png

@@ -47,7 +47,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "No option to configure.",
+                    "markdown": "No option to configure.\r\n\r\n<br>-Background audio player support\r\n\r\n<br>-Block all advertisements\r\n\r\n<br>-Unlock higher resolution quality for Desktop version to mobile app",
                     "useSpacing": true
                 },
                 {
