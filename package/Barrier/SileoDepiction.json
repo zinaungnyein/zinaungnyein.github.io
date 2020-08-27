@@ -7,7 +7,7 @@
             "class": "DepictionStackView",
             "views": [
                 {
-                    "itemCornerRadius": 4.5,
+                    "itemCornerRadius": 6.0,
                     "itemSize": "{70, 360.41333333333336}",
                     "screenshots": [
                         {
