@@ -49,6 +49,18 @@
                 {
                     "spacing": 10,
                     "class": "DepictionSpacerView"
+                },
+                {
+                    "URL": "https://zinaungnyein.github.io/package/FBDarkMode/CydiaIcon.png",
+                    "width": 45,
+                    "height": 45,
+                    "cornerRadius": 3,
+                    "alignment": 1,
+                    "class": "DepictionImageView"
+                },
+                {
+                    "spacing": 10,
+                    "class": "DepictionSpacerView"
                 }
             ],
             "class": "DepictionStackView"
