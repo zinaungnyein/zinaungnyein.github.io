@@ -103,8 +103,8 @@
                 },
                 {
                     "URL": "https://zinaungnyein.github.io/package/FBDarkMode/CydiaIcon.png",
-                    "width": 80,
-                    "height": 80,
+                    "width": 40,
+                    "height": 40,
                     "cornerRadius": 3,
                     "alignment": 1,
                     "class": "DepictionImageView"
