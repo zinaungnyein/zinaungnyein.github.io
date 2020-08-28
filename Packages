@@ -4,12 +4,12 @@ Section: Carrier (Themes)
 Maintainer: Devy_Design <idrainmax@gmail.com>
 Architecture: iphoneos-arm
 Filename: ./package/Candy/Candy.deb
-Size: 2159658
-MD5sum: 63518274019f3fa3d50ed8955c3026bc
+Size: 2159666
+MD5sum: 0b2d65cb408f43f1dcd8f73b34c7d9c0
 Description: Make Your Status Bar Sweet Like a Candy.
 Name: Candy Status Bar
 Author: Devy_Design <idrainmax@gmail.com>
-SileoDepiction: https://zinaungnyein.github.io/package/Candy/SileoDepiction.json
+SileoDepiction: https://zinaungnyein.github.io/package/Candy/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Candy/SileoDepiction.json&name=CandyStatusBar&section=Carrier&dev=Devy_Design
 Icon: file:///Applications/Cydia.app/Sections/Carrier0.png
 
@@ -130,12 +130,13 @@ Maintainer: Po <zinaungnyein@icloud.com>
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
 Filename: ./package/Barrier/me.po.barrier_1.0_iphoneos-arm.deb
-Size: 6800
+Size: 6818
 Installed-Size: 140
-MD5sum: ddb4e26478287bd3dc278fba9ee474e6
+MD5sum: 895fe0815d1fa3c00d1a61ad079c57ae
 Description: A tweak to disable ads in YouTube application.
 Name: Barrier
 Author: Po <zinaungnyein@icloud.com>
+SileoDepiction: https://zinaungnyein.github.io/package/Barrier/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Barrier/SileoDepiction.json&name=Barrier&section=Tweaks&dev=Po
 Icon: file:///Applications/Cydia.app/Sections/Tweaks0.png
 

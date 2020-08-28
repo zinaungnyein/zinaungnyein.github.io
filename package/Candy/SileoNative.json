@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://zinaungnyein.github.io/package/Cylinder/SileoBanner.jpg",
+    "headerImage": "https://zinaungnyein.github.io/package/Candy/SileoBanner.jpg",
     "tabs": [
         {
             "tabname": "Details",
@@ -8,37 +8,45 @@
             "views": [
                 {
                     "itemCornerRadius": 4.5,
-                    "itemSize": "{70, 360}",
+                    "itemSize": "{200, 350.41333333333336}",
                     "screenshots": [
                         {
-                            "url": "https://zinaungnyein.github.io/package/Cylinder/1.png",
+                            "url": "https://zinaungnyein.github.io/package/Candy/1.png",
                             "accessibilityText": "Screenshot0"
                         },
                         {
-                            "url": "https://zinaungnyein.github.io/package/Cylinder/2.png",
+                            "url": "https://zinaungnyein.github.io/package/Candy/2.png",
                             "accessibilityText": "Screenshot1"
-                        },
-                        {
-                            "url": "https://zinaungnyein.github.io/package/Cylinder/3.png",
-                            "accessibilityText": "Screenshot2"
-                        },
-                        {
-                            "url": "https://zinaungnyein.github.io/package/Cylinder/4.png",
-                            "accessibilityText": "Screenshot3"
                         }
                     ],
                     "class": "DepictionScreenshotsView"
                 },
                 {
+                    "class": "DepictionHeaderView",
+                    "title": "Candy Status Bar",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Make Your Device Sweet like Candy.",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "useSpacing": true,
+                    "class": "DepictionSpacerView"
+                },
+                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "# Cylinder\r\n### This tweak adds graphic effects to your icon pages as you scroll through the homescreen.\r\n\r\n\r\nFeatures include:\r\n\r\n* Homescreen animation scroll effects\r\n* 58 different styles you can choose\r\n* If you take combinations into account, then there are 35,184,372,088,832 effects.\r\n* If, for some reason, these 35,184,372,088,832 animations do not satisfy your needs, then you can code your own animations using Lua! Effect scripts are stored in Library>Cylinder.\r\n* You can also make script requests on reddit if you don't know how to computer. People also sometimes post cool combinations there too.\r\n* Configure options from Settings.",
+                    "markdown": "Carefully redesign Cellular, Wifi & LTE icons with magic of Colour Gradient.\r\n\r\n</br>Candy Style Battery pack crafted carefully maintaining your every percentage on Draining & Charging of battery.\r\n\r\n### Candy Status Bar features:\r\n\r\n* 3 Cellular icon Gradient Colour & Regular option</br>\r\n\r\n\r\n* 3 Wifi icon with Gradient Colour & Regular option\r\n\r\n\r\n* 3 LTE icon with Gradient Colour & Regular option\r\n\r\n\r\n* 3 Candy Style Battery Pack with Gradient Colour & Regular option\r\n\r\n### Candy Status Bar use with below options of Tweaks :\r\n\r\n* For cellular and Wifi use Snowboard & Snowboard Status Bar Extension [(Spark Repo)] (https://sparkdev.me) \r\n\r\n* For Battery pack use Juice [(Spark Repo)] (https://sparkdev.me) or\r\n\r\n* For Cellular, Wifi, LTE & Battery use NiceBarX [(NiceiOS Repo)] (https://global.niceios.com) \r\n\r\n### Note:\r\n\r\n* Must Resize battery as your taste.",
                     "useSpacing": true
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "1.1",
+                    "text": "1.0",
                     "title": "Version",
                     "class": "DepictionTableTextView"
                 },
@@ -47,7 +55,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "Nov 18, 2019",
+                    "text": "Aug 25, 2020",
                     "title": "Released",
                     "class": "DepictionTableTextView"
                 },
@@ -65,7 +73,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "iOS 7-13.6",
+                    "text": "iOS 5.1-13.6",
                     "title": "Compatibility",
                     "class": "DepictionTableTextView"
                 },
@@ -74,7 +82,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "Reed Weichler",
+                    "text": "Devy Design",
                     "title": "Developer",
                     "class": "DepictionTableTextView"
                 },
@@ -92,37 +100,18 @@
             "class": "DepictionStackView",
             "views": [
                 {
-                    "title": "What's New:",
+                    "title": "Version 1.0",
                     "useBoldText": true,
                     "useBottomMargin": true,
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "Update Changes:\r\n\r\n* iOS13 support\r\n* A12 support",
+                    "markdown": "Initial Release.",
                     "useSpacing": false,
                     "class": "DepictionMarkdownView"
                 },
                 {
-                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 18/11/19</small>",
-                    "useRawFormat": true,
-                    "class": "DepictionMarkdownView"
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "title": "1.1:",
-                    "useBoldText": true,
-                    "useBottomMargin": true,
-                    "class": "DepictionSubheaderView"
-                },
-                {
-                    "markdown": "Release:\r\n\r\n* Bugs fixed.",
-                    "useSpacing": false,
-                    "class": "DepictionMarkdownView"
-                },
-                {
-                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 18/11/19</small>",
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 25/08/20</small>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -132,6 +121,6 @@
             ]
         }
     ],
-    "tintColor": "#5e9e95",
+    "tintColor": "#22bbf9",
     "minVersion": "0.1"
 }

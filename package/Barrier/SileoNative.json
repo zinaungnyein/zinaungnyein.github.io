@@ -1,44 +1,60 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://zinaungnyein.github.io/package/Cylinder/SileoBanner.jpg",
+    "headerImage": "https://zinaungnyein.github.io/package/Barrier/SileoBanner.jpg",
     "tabs": [
         {
             "tabname": "Details",
             "class": "DepictionStackView",
             "views": [
                 {
-                    "itemCornerRadius": 4.5,
-                    "itemSize": "{70, 360}",
+                    "itemCornerRadius": 6.0,
+                    "itemSize": "{70, 360.41333333333336}",
                     "screenshots": [
                         {
-                            "url": "https://zinaungnyein.github.io/package/Cylinder/1.png",
+                            "url": "https://zinaungnyein.github.io/package/Barrier/1.png",
                             "accessibilityText": "Screenshot0"
                         },
                         {
-                            "url": "https://zinaungnyein.github.io/package/Cylinder/2.png",
+                            "url": "https://zinaungnyein.github.io/package/Barrier/2.png",
                             "accessibilityText": "Screenshot1"
                         },
                         {
-                            "url": "https://zinaungnyein.github.io/package/Cylinder/3.png",
+                            "url": "https://zinaungnyein.github.io/package/Barrier/3.png",
                             "accessibilityText": "Screenshot2"
                         },
                         {
-                            "url": "https://zinaungnyein.github.io/package/Cylinder/4.png",
+                            "url": "https://zinaungnyein.github.io/package/Barrier/4.png",
                             "accessibilityText": "Screenshot3"
                         }
                     ],
                     "class": "DepictionScreenshotsView"
                 },
                 {
+                    "class": "DepictionHeaderView",
+                    "title": "Barrier",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Say goodbye to YouTube Ads",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "useSpacing": true,
+                    "class": "DepictionSpacerView"
+                },
+                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "# Cylinder\r\n### This tweak adds graphic effects to your icon pages as you scroll through the homescreen.\r\n\r\n\r\nFeatures include:\r\n\r\n* Homescreen animation scroll effects\r\n* 58 different styles you can choose\r\n* If you take combinations into account, then there are 35,184,372,088,832 effects.\r\n* If, for some reason, these 35,184,372,088,832 animations do not satisfy your needs, then you can code your own animations using Lua! Effect scripts are stored in Library>Cylinder.\r\n* You can also make script requests on reddit if you don't know how to computer. People also sometimes post cool combinations there too.\r\n* Configure options from Settings.",
+                    "markdown": "No option to configure.\r\n\r\n<br>-Background audio player support\r\n\r\n<br>-Block all advertisements\r\n\r\n<br>-Unlock higher resolution quality for Desktop version to mobile app",
                     "useSpacing": true
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "1.1",
+                    "text": "1.0",
                     "title": "Version",
                     "class": "DepictionTableTextView"
                 },
@@ -47,7 +63,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "Nov 18, 2019",
+                    "text": "Aug 27, 2020",
                     "title": "Released",
                     "class": "DepictionTableTextView"
                 },
@@ -65,7 +81,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "iOS 7-13.6",
+                    "text": "iOS 11-13.6",
                     "title": "Compatibility",
                     "class": "DepictionTableTextView"
                 },
@@ -74,7 +90,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "Reed Weichler",
+                    "text": "Po",
                     "title": "Developer",
                     "class": "DepictionTableTextView"
                 },
@@ -92,37 +108,18 @@
             "class": "DepictionStackView",
             "views": [
                 {
-                    "title": "What's New:",
+                    "title": "Version 1.0",
                     "useBoldText": true,
                     "useBottomMargin": true,
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "Update Changes:\r\n\r\n* iOS13 support\r\n* A12 support",
+                    "markdown": "Initial Release.",
                     "useSpacing": false,
                     "class": "DepictionMarkdownView"
                 },
                 {
-                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 18/11/19</small>",
-                    "useRawFormat": true,
-                    "class": "DepictionMarkdownView"
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "title": "1.1:",
-                    "useBoldText": true,
-                    "useBottomMargin": true,
-                    "class": "DepictionSubheaderView"
-                },
-                {
-                    "markdown": "Release:\r\n\r\n* Bugs fixed.",
-                    "useSpacing": false,
-                    "class": "DepictionMarkdownView"
-                },
-                {
-                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 18/11/19</small>",
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 27/08/20</small>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -132,6 +129,6 @@
             ]
         }
     ],
-    "tintColor": "#5e9e95",
+    "tintColor": "#22bbf9",
     "minVersion": "0.1"
 }
