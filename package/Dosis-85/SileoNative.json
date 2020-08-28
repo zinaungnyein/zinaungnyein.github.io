@@ -42,7 +42,7 @@
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "A-Font",
-                    "useSpacing": true
+                    "useSpacing": false
                 },
                 {
                     "class": "DepictionMarkdownView",
@@ -57,7 +57,7 @@
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "iThemer",
-                    "useSpacing": true
+                    "useSpacing": false
                 },
                 {
                     "class": "DepictionMarkdownView",
