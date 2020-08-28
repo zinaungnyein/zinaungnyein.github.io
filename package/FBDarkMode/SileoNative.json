@@ -55,13 +55,6 @@
                     "useSpacing": true
                 },
                 {
-                    "URL": "https://zinaungnyein.github.io/package/FBDarkMode/CydiaIcon.png",
-                    "width": 20,
-                    "height": 20,
-                    "cornerRadius": 3,
-                    "class": "DepictionImageView"
-                },
-                {
                     "class": "DepictionSeparatorView"
                 },
                 {
@@ -107,6 +100,13 @@
                 },
                 {
                     "class": "DepictionSeparatorView"
+                },
+                {
+                    "URL": "https://zinaungnyein.github.io/package/FBDarkMode/CydiaIcon.png",
+                    "width": 20,
+                    "height": 20,
+                    "cornerRadius": 3,
+                    "class": "DepictionImageView"
                 },
                 {
                     "spacing": 10,
