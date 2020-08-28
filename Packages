@@ -51,13 +51,13 @@ Depends: mobilesubstrate
 Conflicts: me.kritanta.homeplus
 Architecture: iphoneos-arm
 Filename: package/HomePlus-Pro/HomePlus-Pro.deb
-Size: 1052818
+Size: 1052820
 Installed-Size: 3352
-MD5sum: b081ed74a1fc7ff8931c94c7e704c3f8
+MD5sum: 708f49e1799fa5f620fe609292412e3e
 Description: Dynamic, live homescreen layout with an intuitive UI
 Name: HomePlus Pro
 Author: Kritanta
-SileoDepiction: https://zinaungnyein.github.io/package/HomePlus-Pro/SileoDepiction.json
+SileoDepiction: https://zinaungnyein.github.io/package/HomePlus-Pro/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/HomePlus-Pro/SileoDepiction.json&name=HomePlus-Pro&section=Tools&dev=Kritanta
 Icon: file:///Applications/Cydia.app/Sections/Tools.png
 
