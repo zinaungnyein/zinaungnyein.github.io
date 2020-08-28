@@ -55,14 +55,14 @@
                     "useSpacing": true
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
                     "URL": "https://github.com/zinaungnyein/zinaungnyein.github.io/CydiaIcon.png",
                     "width": 9.5,
                     "height": 9.5,
                     "cornerRadius": 2.5,
                     "class": "DepictionImageView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "text": "1.0",
