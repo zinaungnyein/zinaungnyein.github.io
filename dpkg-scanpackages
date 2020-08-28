@@ -48,6 +48,7 @@ my @fieldpri= ('Package',
                'Author',
                'Homepage',
                'Website',
+               'SileoDepiction',
                'Depiction',
                'Icon'
 	      );

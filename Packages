@@ -9,6 +9,7 @@ MD5sum: 63518274019f3fa3d50ed8955c3026bc
 Description: Make Your Status Bar Sweet Like a Candy.
 Name: Candy Status Bar
 Author: Devy_Design <idrainmax@gmail.com>
+SileoDepiction: https://zinaungnyein.github.io/package/Candy/SileoDepiction.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Candy/SileoDepiction.json&name=CandyStatusBar&section=Carrier&dev=Devy_Design
 Icon: file:///Applications/Cydia.app/Sections/Carrier0.png
 
@@ -23,6 +24,7 @@ MD5sum: 926a19319bb346ba6cb8679e139130cb
 Description: Dosis font. 100% size. For iOS13.
 Name: Dosis_100% (iOS13)
 Author: Alexman
+SileoDepiction: https://zinaungnyein.github.io/package/Dosis-100/SileoDepiction.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Dosis-100/SileoDepiction.json&name=Dosis-100&section=Fonts&dev=Alexman
 Icon: file:///Applications/Cydia.app/Sections/Fonts0.png
 
@@ -37,6 +39,7 @@ MD5sum: 3cdd3bc6e9c3a98ea4c2036bfd082875
 Description: Dosis font. 85% size. For iOS13.
 Name: Dosis (iOS13)
 Author: Alexman
+SileoDepiction: https://zinaungnyein.github.io/package/Dosis-85/SileoDepiction.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Dosis-85/SileoDepiction.json&name=Dosis-85&section=Fonts&dev=Alexman
 Icon: file:///Applications/Cydia.app/Sections/Fonts0.png
 
@@ -54,6 +57,7 @@ MD5sum: b081ed74a1fc7ff8931c94c7e704c3f8
 Description: Dynamic, live homescreen layout with an intuitive UI
 Name: HomePlus Pro
 Author: Kritanta
+SileoDepiction: https://zinaungnyein.github.io/package/HomePlus-Pro/SileoDepiction.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/HomePlus-Pro/SileoDepiction.json&name=HomePlus-Pro&section=Tools&dev=Kritanta
 Icon: file:///Applications/Cydia.app/Sections/Tools.png
 
@@ -69,6 +73,7 @@ MD5sum: 937f5afee77bcf3d4f8e53801e3cab57
 Description: Circle Icons with cool overlays!
 Name: CircleIcons
 Author: CoolStar <zinaungnyein@icloud.com>
+SileoDepiction: https://zinaungnyein.github.io/package/CircleIcons/SileoDepiction.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/CircleIcons/SileoDepiction.json&name=CircleIcons&section=Themes&dev=coolstar
 Icon: file:///Applications/Cydia.app/Sections/Themes0.png
 
@@ -85,6 +90,7 @@ MD5sum: fe1d59df5d50f88dfa817a8c7e03c8fe
 Description: Make your icons dance
 Name: Cylinder
 Author: Reed Weichler
+SileoDepiction: https://zinaungnyein.github.io/package/Cylinder/SileoDepiction.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Cylinder/SileoDepiction.json&name=Cylinder&section=Tweaks&dev=ReedWeichler
 Icon: file:///Applications/Cydia.app/Sections/Tweaks0.png
 
