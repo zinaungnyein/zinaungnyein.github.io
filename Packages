@@ -3,7 +3,7 @@ Version: 1.0
 Section: Carrier (Themes)
 Maintainer: Devy_Design <idrainmax@gmail.com>
 Architecture: iphoneos-arm
-Filename: package/Candy/Candy.deb
+Filename: ./package/Candy/Candy.deb
 Size: 2159658
 MD5sum: 63518274019f3fa3d50ed8955c3026bc
 Description: Make Your Status Bar Sweet Like a Candy.
@@ -18,7 +18,7 @@ Version: 1.0
 Section: Fonts (iOS13)
 Maintainer: Alexman
 Architecture: iphoneos-arm
-Filename: package/Dosis-100/Dosis-100.deb
+Filename: ./package/Dosis-100/Dosis-100.deb
 Size: 26104522
 MD5sum: 926a19319bb346ba6cb8679e139130cb
 Description: Dosis font. 100% size. For iOS13.
@@ -33,7 +33,7 @@ Version: 1.0
 Section: Fonts (iOS13)
 Maintainer: Alexman
 Architecture: iphoneos-arm
-Filename: package/Dosis-85/Dosis-85.deb
+Filename: ./package/Dosis-85/Dosis-85.deb
 Size: 27409858
 MD5sum: 3cdd3bc6e9c3a98ea4c2036bfd082875
 Description: Dosis font. 85% size. For iOS13.
@@ -50,7 +50,7 @@ Maintainer: Po
 Depends: mobilesubstrate
 Conflicts: me.kritanta.homeplus
 Architecture: iphoneos-arm
-Filename: package/HomePlus-Pro/HomePlus-Pro.deb
+Filename: ./package/HomePlus-Pro/HomePlus-Pro.deb
 Size: 1052820
 Installed-Size: 3352
 MD5sum: 708f49e1799fa5f620fe609292412e3e
@@ -67,7 +67,7 @@ Section: Themes
 Maintainer: CoolStar <zinaungnyein@icloud.com>
 Depends: com.anemonetheming.anemone
 Architecture: iphoneos-arm
-Filename: package/CircleIcons/CircleIcons.deb
+Filename: ./package/CircleIcons/CircleIcons.deb
 Size: 106032
 MD5sum: 937f5afee77bcf3d4f8e53801e3cab57
 Description: Circle Icons with cool overlays!
@@ -83,7 +83,7 @@ Section: Tweaks
 Maintainer: Po
 Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm
-Filename: package/Cylinder/Cylinder.deb
+Filename: ./package/Cylinder/Cylinder.deb
 Size: 502366
 Installed-Size: 1419
 MD5sum: fe1d59df5d50f88dfa817a8c7e03c8fe
@@ -100,7 +100,7 @@ Section: Tweaks
 Maintainer: Zin Aung Nyein
 Depends: firmware (>=11), file-cmds
 Architecture: iphoneos-arm
-Filename: package/FBDarkMode/FBDarkMode.deb
+Filename: ./package/FBDarkMode/FBDarkMode.deb
 Size: 8856
 MD5sum: 247c0592d5870f8ea7ca9095204f05f6
 Description: A tweak that enables Facebook Dark Mode Option under Facebook Application settings.
@@ -115,7 +115,7 @@ Section: System
 Essential: yes
 Maintainer: Po
 Architecture: iphoneos-arm
-Filename: package/RepoIcons/com.po.repoicon.deb
+Filename: ./package/RepoIcons/com.po.repoicon.deb
 Size: 440314
 MD5sum: 101589c0c4300c9fb8b08a53443a6f91
 Description: Official Po's Repo Icons
@@ -129,7 +129,7 @@ Section: Tweaks
 Maintainer: Po <zinaungnyein@icloud.com>
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
-Filename: package/Barrier/me.po.barrier_1.0_iphoneos-arm.deb
+Filename: ./package/Barrier/me.po.barrier_1.0_iphoneos-arm.deb
 Size: 6800
 Installed-Size: 140
 MD5sum: ddb4e26478287bd3dc278fba9ee474e6
