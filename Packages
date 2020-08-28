@@ -19,12 +19,12 @@ Section: Fonts (iOS13)
 Maintainer: Alexman
 Architecture: iphoneos-arm
 Filename: ./package/Dosis-100/Dosis-100.deb
-Size: 26104522
-MD5sum: 926a19319bb346ba6cb8679e139130cb
+Size: 26104576
+MD5sum: a90054454ba5840bb060c356579a97e6
 Description: Dosis font. 100% size. For iOS13.
 Name: Dosis_100% (iOS13)
 Author: Alexman
-SileoDepiction: https://zinaungnyein.github.io/package/Dosis-100/SileoDepiction.json
+SileoDepiction: https://zinaungnyein.github.io/package/Dosis-100/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Dosis-100/SileoDepiction.json&name=Dosis-100&section=Fonts&dev=Alexman
 Icon: file:///Applications/Cydia.app/Sections/Fonts0.png
 
@@ -34,12 +34,12 @@ Section: Fonts (iOS13)
 Maintainer: Alexman
 Architecture: iphoneos-arm
 Filename: ./package/Dosis-85/Dosis-85.deb
-Size: 27409858
-MD5sum: 3cdd3bc6e9c3a98ea4c2036bfd082875
+Size: 27409882
+MD5sum: 38a040c3cd68f62e00347b53d1635585
 Description: Dosis font. 85% size. For iOS13.
 Name: Dosis (iOS13)
 Author: Alexman
-SileoDepiction: https://zinaungnyein.github.io/package/Dosis-85/SileoDepiction.json
+SileoDepiction: https://zinaungnyein.github.io/package/Dosis-85/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Dosis-85/SileoDepiction.json&name=Dosis-85&section=Fonts&dev=Alexman
 Icon: file:///Applications/Cydia.app/Sections/Fonts0.png
 
@@ -101,11 +101,12 @@ Maintainer: Zin Aung Nyein
 Depends: firmware (>=11), file-cmds
 Architecture: iphoneos-arm
 Filename: ./package/FBDarkMode/FBDarkMode.deb
-Size: 8856
-MD5sum: 247c0592d5870f8ea7ca9095204f05f6
+Size: 8868
+MD5sum: 13e5f60c8bd8df1b2661d3d41813bd04
 Description: A tweak that enables Facebook Dark Mode Option under Facebook Application settings.
 Name: FB Dark Mode
 Author: Zin Aung Nyein
+SileoDepiction: https://zinaungnyein.github.io/package/FBDarkMode/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/FBDarkMode/SileoDepiction.json&name=FBDarkMode&section=Themes&dev=ZinAungNyein
 Icon: file:///Applications/Cydia.app/Sections/Themes0.png
 
@@ -116,11 +117,12 @@ Essential: yes
 Maintainer: Po
 Architecture: iphoneos-arm
 Filename: ./package/RepoIcons/com.po.repoicon.deb
-Size: 440314
-MD5sum: 101589c0c4300c9fb8b08a53443a6f91
+Size: 440330
+MD5sum: 4202a2d5eee54a70870e5b0365906ad2
 Description: Official Po's Repo Icons
 Name: Repo Icons
 Author: Po
+SileoDepiction: https://zinaungnyein.github.io/package/RepoIcons/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/RepoIcons/SileoDepiction.json&name=RepoIcons&dev=Po&section=System
 
 Package: me.po.barrier
