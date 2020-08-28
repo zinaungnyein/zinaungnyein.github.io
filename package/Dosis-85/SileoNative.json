@@ -31,13 +31,13 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "# Dosis\r\nThis is 85%. If you'd love to prefer 100% size, please download 100% size in the Fonts section from my repo.\r\n\r\n#### In addition: 85% is normal character size while 100% is bigger.\r\n\r\nRequirements: SnowBoard (recommended), A-Font, iThemer\r\n\r\n\r\n\nSnowBoard\r\n\r\n\r\n\nINSTALL:\r\n\r\n* SnowBoard Application\r\n* SnowBoard Fonts Extension\r\n\n",
-                    "useSpacing": false
+                    "markdown": "# Dosis\r\nThis is 85%. If you'd love to prefer 100% size, please download 100% size in the Fonts section from my repo.\r\n\r\n#### In addition: 85% is normal character size while 100% is bigger.\r\n\r\nRequirements: SnowBoard (recommended), A-Font, iThemer\r\n\r\n\r\n\nSnowBoard\r\n\r\n\r\n\nINSTALL:\r\n\r\n* SnowBoard Application\r\n* SnowBoard Fonts Extension",
+                    "useSpacing": true
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Get these from [(Spark Repo).](https://sparkdev.me) \r\n(Fonts will be installed to Library>Themes>Fonts name)\r\n\n",
-                    "useSpacing": false
+                    "markdown": "Get these from [(Spark Repo).](https://sparkdev.me) \r\n(Fonts will be installed to Library>Themes>Fonts name)",
+                    "useSpacing": true
                 },
                 {
                     "class": "DepictionMarkdownView",
@@ -47,12 +47,12 @@
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "Get this from [(Merona Repo).](https://repo.rpgfarm.com)",
-                    "useSpacing": true
+                    "useSpacing": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Follow [(this tutorial)](https://m.youtube.com/watch?feature=youtu.be&v=YBdghFpm8h4) to apply fonts if you are new to A-Font.\r\n\n",
-                    "useSpacing": false
+                    "markdown": "Follow [(this tutorial)](https://m.youtube.com/watch?feature=youtu.be&v=YBdghFpm8h4) to apply fonts if you are new to A-Font.",
+                    "useSpacing": true
                 },
                 {
                     "class": "DepictionMarkdownView",
