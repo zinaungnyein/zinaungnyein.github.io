@@ -104,6 +104,11 @@
                 {
                     "spacing": 10,
                     "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionImageView"
+                    "URL": "./CydiaIcon.png"
+                    "alignment": 1
                 }
             ]
         },
