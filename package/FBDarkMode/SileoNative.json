@@ -55,9 +55,9 @@
                     "useSpacing": true
                 },
                 {
-                    "URL": "https://github.com/zinaungnyein/zinaungnyein.github.io/CydiaIcon.png",
-                    "width": 9.5,
-                    "height": 9.5,
+                    "URL": "https://zinaungnyein.github.io/package/FBDarkMode/CydiaIcon.png",
+                    "width": 1.5,
+                    "height": 1.5,
                     "cornerRadius": 2.5,
                     "class": "DepictionImageView"
                 },
