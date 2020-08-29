@@ -114,6 +114,12 @@
                     "class": "DepictionImageView"
                 },
                 {
+                    "text": "Poyangkai",
+                    "fontWeight": "bold",
+                    "alignment": 1,
+                    "class": "DepictionLabelView"
+                },
+                {
                     "spacing": 10,
                     "class": "DepictionSpacerView"
                 }
