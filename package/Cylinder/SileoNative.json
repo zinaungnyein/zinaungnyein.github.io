@@ -1,0 +1,167 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://zinaungnyein.github.io/package/Cylinder/SileoBanner.jpg",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "itemCornerRadius": 4.5,
+                    "itemSize": "{70, 360}",
+                    "screenshots": [
+                        {
+                            "url": "https://zinaungnyein.github.io/package/Cylinder/1.png",
+                            "accessibilityText": "Screenshot0"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/Cylinder/2.png",
+                            "accessibilityText": "Screenshot1"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/Cylinder/3.png",
+                            "accessibilityText": "Screenshot2"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/Cylinder/4.png",
+                            "accessibilityText": "Screenshot3"
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "# Cylinder\r\n### This tweak adds graphic effects to your icon pages as you scroll through the homescreen.\r\n\r\n\r\nFeatures include:\r\n\r\n* Homescreen animation scroll effects\r\n* 58 different styles you can choose\r\n* If you take combinations into account, then there are 35,184,372,088,832 effects.\r\n* If, for some reason, these 35,184,372,088,832 animations do not satisfy your needs, then you can code your own animations using Lua! Effect scripts are stored in Library>Cylinder.\r\n* You can also make script requests on reddit if you don't know how to computer. People also sometimes post cool combinations there too.\r\n* Configure options from Settings.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.1",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Nov 18, 2019",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Free",
+                    "title": "Price",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "iOS 7-13.6",
+                    "title": "Compatibility",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Reed Weichler",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 10,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "URL": "https://zinaungnyein.github.io/package/FBDarkMode/CydiaIcon.png",
+                    "width": 54,
+                    "height": 54,
+                    "cornerRadius": 3,
+                    "alignment": 1,
+                    "class": "DepictionImageView"
+                },
+                {
+                    "text": "Poyangkai",
+                    "margins": "{10.5, 0, 0, 0}",
+                    "fontWeight": "regular",
+                    "fontSize": 18,
+                    "textColor": "#777777",
+                    "alignment": 1,
+                    "class": "DepictionLabelView"
+                },
+                {
+                    "text": "Life was A Box of Chocolates",
+                    "margins": "{10, 0, 0, 0}",
+                    "fontWeight": "light",
+                    "fontSize": 14,
+                    "textColor": "#777777",
+                    "alignment": 1,
+                    "class": "DepictionLabelView"
+                },
+                {
+                    "spacing": 10,
+                    "class": "DepictionSpacerView"
+                }
+            ]
+        },
+        {
+            "tabname": "Changes",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "title": "What's New:",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Update Changes:\r\n\r\n* iOS13 support\r\n* A12 support",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px text-align:center; \">Updated 18/11/19</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "1.1:",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Release:\r\n\r\n* Bugs fixed.",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 18/11/19</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                }
+            ]
+        }
+    ],
+    "tintColor": "#5e9e95",
+    "minVersion": "0.1"
+}

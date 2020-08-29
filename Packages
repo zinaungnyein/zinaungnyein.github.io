@@ -68,12 +68,12 @@ Maintainer: CoolStar <zinaungnyein@icloud.com>
 Depends: com.anemonetheming.anemone
 Architecture: iphoneos-arm
 Filename: ./package/CircleIcons/CircleIcons.deb
-Size: 106032
-MD5sum: 937f5afee77bcf3d4f8e53801e3cab57
+Size: 106038
+MD5sum: 8c0c12ec1568c7415d830f297a96ff89
 Description: Circle Icons with cool overlays!
 Name: CircleIcons
 Author: CoolStar <zinaungnyein@icloud.com>
-SileoDepiction: https://zinaungnyein.github.io/package/CircleIcons/SileoDepiction.json
+SileoDepiction: https://zinaungnyein.github.io/package/CircleIcons/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/CircleIcons/SileoDepiction.json&name=CircleIcons&section=Themes&dev=coolstar
 Icon: file:///Applications/Cydia.app/Sections/Themes0.png
 
@@ -84,13 +84,13 @@ Maintainer: Po
 Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm
 Filename: ./package/Cylinder/Cylinder.deb
-Size: 502366
+Size: 502376
 Installed-Size: 1419
-MD5sum: fe1d59df5d50f88dfa817a8c7e03c8fe
+MD5sum: 3068ca82fc9bf62f15750168ffa046c7
 Description: Make your icons dance
 Name: Cylinder
 Author: Reed Weichler
-SileoDepiction: https://zinaungnyein.github.io/package/Cylinder/SileoDepiction.json
+SileoDepiction: https://zinaungnyein.github.io/package/Cylinder/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Cylinder/SileoDepiction.json&name=Cylinder&section=Tweaks&dev=ReedWeichler
 Icon: file:///Applications/Cydia.app/Sections/Tweaks0.png
 
