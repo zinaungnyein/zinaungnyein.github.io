@@ -125,7 +125,7 @@
                     "text": "Life was A Box of Chocolates",
                     "margins": "{10, 0, 0, 0}",
                     "fontWeight": "light",
-                    "fontSize": 16,
+                    "fontSize": 13,
                     "alignment": 1,
                     "class": "DepictionLabelView"
                 },
