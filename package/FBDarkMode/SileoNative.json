@@ -115,8 +115,8 @@
                 },
                 {
                     "text": "Poyangkai",
-                    "fontWeight": "bold",
-                    "fontSize": 10,
+                    "fontWeight": "medium",
+                    "fontSize": 20,
                     "alignment": 1,
                     "class": "DepictionLabelView"
                 },
