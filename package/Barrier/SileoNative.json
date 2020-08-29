@@ -110,6 +110,24 @@
                     "class": "DepictionImageView"
                 },
                 {
+                    "text": "Poyangkai",
+                    "margins": "{10.5, 0, 0, 0}",
+                    "fontWeight": "regular",
+                    "fontSize": 18,
+                    "textColor": "#777777",
+                    "alignment": 1,
+                    "class": "DepictionLabelView"
+                },
+                {
+                    "text": "Life was A Box of Chocolates",
+                    "margins": "{10, 0, 0, 0}",
+                    "fontWeight": "light",
+                    "fontSize": 14,
+                    "textColor": "#777777",
+                    "alignment": 1,
+                    "class": "DepictionLabelView"
+                },
+                {
                     "spacing": 10,
                     "class": "DepictionSpacerView"
                 }
