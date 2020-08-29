@@ -118,6 +118,7 @@
                     "margins": "{10, 0, 0, 0}",
                     "fontWeight": "regular",
                     "fontSize": 18,
+                    "textColor": "gray",
                     "alignment": 1,
                     "class": "DepictionLabelView"
                 },
@@ -126,6 +127,7 @@
                     "margins": "{10, 0, 0, 0}",
                     "fontWeight": "light",
                     "fontSize": 13,
+                    "textColor": "gray",
                     "alignment": 1,
                     "class": "DepictionLabelView"
                 },
