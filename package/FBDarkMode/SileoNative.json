@@ -115,7 +115,7 @@
                 },
                 {
                     "text": "Poyangkai",
-                    "margins": "{10, 0, -15, 0}",
+                    "margins": "{10, 0, -25, 0}",
                     "fontWeight": "medium",
                     "fontSize": 20,
                     "alignment": 1,
@@ -123,6 +123,7 @@
                 },
                 {
                     "text": "Life was A Box of Chocolates",
+                    "margins": "{15, 0, 0, 0}",
                     "fontWeight": "regular",
                     "fontSize": 16,
                     "alignment": 1,
