@@ -115,7 +115,7 @@
                 },
                 {
                     "text": "Poyangkai",
-                    "usePadding": true,
+                    "margins": "{0, 0, 5, 0}",
                     "fontWeight": "medium",
                     "fontSize": 20,
                     "alignment": 1,
