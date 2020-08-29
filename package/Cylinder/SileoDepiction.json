@@ -103,7 +103,7 @@
                     "class": "DepictionMarkdownView"
                 },
                 {
-                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 18/11/19</small>",
+                    "markdown": "<small style=\"color: #999; margin-top: -8px text-align:center; \">Updated 18/11/19</small>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
                 },
