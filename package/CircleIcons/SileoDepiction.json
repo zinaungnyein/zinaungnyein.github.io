@@ -119,8 +119,7 @@
                     "fontWeight": "regular",
                     "fontSize": 18,
                     "textColor": "#777777",
-                    "alignment": 1,
-                    "text-align": "center",
+                    "alignment": "center",
                     "class": "DepictionLabelView"
                 },
                 {
