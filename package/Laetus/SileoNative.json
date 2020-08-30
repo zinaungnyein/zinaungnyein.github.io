@@ -47,7 +47,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Laetus provides almost unlimited ways to customise the iOS keyboard.<br>\r\n\r\n### Laetus includes several different types of theming\r\n\r\n* Colours: Simply the colours of backgrounds, tints, and text</br>\r\n\r\n\r\n* Image: Select an image from your photo gallery to display in the background\r\n\r\n\r\n* 3 Image Themes: Themes built using images and setup for different screen sizes. Offering a complete keyboard theming experience.\r\n\r\n\r\n* HTML Themes: Themes built using HTML/Javascript/CSS offering an interactive and even animated keyboard theme\r\n\r\n\r\n* Widget Themes: Themes built using Objective-c offering a complete theming experience that can be provided by iOS developers.\r\n\r\ People interested in building themes with Laetus can see the documentation [(here)] (https://github.com/SparkDev97/LaetusDocumentation) \r\n\r\n\r\nLaetus also includes various options for customising parts of the keyboard including (But not limited to):\r\n\r\n\r\n* Hide Key Shadows\r\n\r\n\r\n* Hide Key Caps\r\n\r\n\r\n* Customise the gradient that is shown on key popups\r\n\r\n\r\n* Customise the gradient that is shown on key popups\r\n\r\n\r\n* Lots more!",
+                    "markdown": "Laetus provides almost unlimited ways to customise the iOS keyboard.<br>\r\n\r\n### Laetus includes several different types of theming\r\n\r\n* Colours: Simply the colours of backgrounds, tints, and text</br>\r\n\r\n\r\n* Image: Select an image from your photo gallery to display in the background\r\n\r\n\r\n* 3 Image Themes: Themes built using images and setup for different screen sizes. Offering a complete keyboard theming experience.\r\n\r\n\r\n* HTML Themes: Themes built using HTML/Javascript/CSS offering an interactive and even animated keyboard theme\r\n\r\n\r\n* Widget Themes: Themes built using Objective-c offering a complete theming experience that can be provided by iOS developers.\r\n\r\n\r\nLaetus also includes various options for customising parts of the keyboard including (But not limited to):\r\n\r\n\r\n* Hide Key Shadows\r\n\r\n\r\n* Hide Key Caps\r\n\r\n\r\n* Customise the gradient that is shown on key popups\r\n\r\n\r\n* Customise the gradient that is shown on key popups\r\n\r\n\r\n* Lots more!",
                     "useSpacing": true
                 },
                 {
@@ -96,6 +96,36 @@
                 },
                 {
                     "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 10,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "URL": "https://zinaungnyein.github.io/package/FBDarkMode/CydiaIcon.png",
+                    "width": 54,
+                    "height": 54,
+                    "cornerRadius": 3,
+                    "alignment": 1,
+                    "class": "DepictionImageView"
+                },
+                {
+                    "text": "Poyangkai",
+                    "margins": "{10.5, 0, 0, 0}",
+                    "fontWeight": "regular",
+                    "fontSize": 18,
+                    "textColor": "#6B5B95",
+                    "alignment": 1,
+                    "class": "DepictionLabelView"
+                },
+                {
+                    "text": "Life was A Box of Chocolates",
+                    "margins": "{10, 0, 0, 0}",
+                    "fontWeight": "light",
+                    "fontSize": 14,
+                    "textColor": "#6B5B95",
+                    "alignment": 1,
+                    "class": "DepictionLabelView"
                 },
                 {
                     "spacing": 10,
