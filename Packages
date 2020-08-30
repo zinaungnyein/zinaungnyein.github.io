@@ -61,6 +61,23 @@ SileoDepiction: https://zinaungnyein.github.io/package/HomePlus-Pro/SileoNative.
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/HomePlus-Pro/SileoDepiction.json&name=HomePlus-Pro&section=Tools&dev=Kritanta
 Icon: file:///Applications/Cydia.app/Sections/Tools.png
 
+Package: com.po.libsparkcolourpicker
+Version: 1.0.1
+Section: System
+Maintainer: Spark
+Depends: 
+Architecture: iphoneos-arm
+Filename: ./package/SparkColorPicker/SparkColorPicker.deb
+Size: 122868
+Installed-Size: 424
+MD5sum: 40d40f85b0411a3f3b8be787471176d8
+Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
+Name: libsparkcolourpicker
+Author: Spark
+SileoDepiction: https://zinaungnyein.github.io/package/SparkColorPicker/SileoNative.json
+Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/SparkColorPicker/SileoDepiction.json&name= LibSparkColorPicker&section=System&dev=Spark
+Icon: file:///Applications/Cydia.app/Sections/System0.png
+
 Package: com.thefatrat.circleicons
 Version: 1.3.2
 Section: Themes
