@@ -1,0 +1,134 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://zinaungnyein.github.io/package/Laetus/SileoBanner.jpg",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "itemCornerRadius": 4.5,
+                    "itemSize": "{200, 350.41333333333336}",
+                    "screenshots": [
+                        {
+                            "url": "https://zinaungnyein.github.io/package/Laetus/1.png",
+                            "accessibilityText": "Screenshot0"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/Laetus/2.png",
+                            "accessibilityText": "Screenshot1"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/Laetus/3.png",
+                            "accessibilityText": "Screenshot2"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/Laetus/4.png",
+                            "accessibilityText": "Screenshot3"
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Laetus",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Limitless Keyboard Customisation",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "useSpacing": true,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Laetus provides almost unlimited ways to customise the iOS keyboard.<br>\r\n\r\n### Laetus includes several different types of theming\r\n\r\n* Colours: Simply the colours of backgrounds, tints, and text</br>\r\n\r\n\r\n* Image: Select an image from your photo gallery to display in the background\r\n\r\n\r\n* 3 Image Themes: Themes built using images and setup for different screen sizes. Offering a complete keyboard theming experience.\r\n\r\n\r\n* HTML Themes: Themes built using HTML/Javascript/CSS offering an interactive and even animated keyboard theme\r\n\r\n\r\n* Widget Themes: Themes built using Objective-c offering a complete theming experience that can be provided by iOS developers.\r\n\r\ People interested in building themes with Laetus can see the documentation [(here)] (https://github.com/SparkDev97/LaetusDocumentation) \r\n\r\n\r\nLaetus also includes various options for customising parts of the keyboard including (But not limited to):\r\n\r\n\r\n* Hide Key Shadows\r\n\r\n\r\n* Hide Key Caps\r\n\r\n\r\n* Customise the gradient that is shown on key popups\r\n\r\n\r\n* Customise the gradient that is shown on key popups\r\n\r\n\r\n* Lots more!",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "3.0.3",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Aug 28, 2020",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Free",
+                    "title": "Price",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "iOS 11-13.6",
+                    "title": "Compatibility",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Spark",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 10,
+                    "class": "DepictionSpacerView"
+                }
+            ]
+        },
+        {
+            "tabname": "Changes",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "title": "Version 3.0.3",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Fix laetusCurrentLanguage and laetusKeyPlaneDidChange javascript callbacks",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 28/08/20</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                }
+            ]
+        }
+    ],
+    "tintColor": "#22bbf9",
+    "minVersion": "0.1"
+}

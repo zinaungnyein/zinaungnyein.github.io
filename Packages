@@ -61,6 +61,23 @@ SileoDepiction: https://zinaungnyein.github.io/package/HomePlus-Pro/SileoNative.
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/HomePlus-Pro/SileoDepiction.json&name=HomePlus-Pro&section=Tools&dev=Kritanta
 Icon: file:///Applications/Cydia.app/Sections/Tools.png
 
+Package: com.po.laetus
+Version: 3.0.3
+Section: Keyboards(Theme)
+Maintainer: Spark
+Depends: mobilesubstrate, preferenceloader, com.po.libsparkcolourpicker (>= 1.0.1)
+Architecture: iphoneos-arm
+Filename: ./package/Laetus/Laetus.deb
+Size: 894516
+Installed-Size: 1544
+MD5sum: 702239b0d559d0efb6dc116277cd946a
+Description: Unparalleled Keyboard Customisation
+Name: Laetus
+Author: Spark
+SileoDepiction: https://zinaungnyein.github.io/package/Laetus/SileoNative.json
+Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Laetus/SileoDepiction.json&name= Laetus&section=Keyboards&dev=Spark
+Icon: file:///Applications/Cydia.app/Sections/Keyboards0.png
+
 Package: com.po.libsparkcolourpicker
 Version: 1.0.1
 Section: System
