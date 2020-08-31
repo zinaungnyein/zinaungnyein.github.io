@@ -8,7 +8,7 @@
             "views": [
                 {
                     "itemCornerRadius": 4.5,
-                    "itemSize": "{130, 390}",
+                    "itemSize": "{173, 375}",
                     "screenshots": [
                         {
                             "url": "https://zinaungnyein.github.io/package/Kalm/1.png",
@@ -105,6 +105,20 @@
                     "text": "Ubik",
                     "title": "Developer",
                     "class": "DepictionTableTextView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Contact the Support",
+                    "action": "mailto:zinaungnyein@icloud.com?subject=[Support][candy]",
+                    "openExternal": true
                 },
                 {
                     "class": "DepictionSeparatorView"
