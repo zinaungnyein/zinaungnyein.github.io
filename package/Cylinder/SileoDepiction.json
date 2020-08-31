@@ -117,7 +117,7 @@
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "Release:\r\n\r\n* Bugs fixed.",
+                    "markdown": "Release \r\n\r\n* Bugs fixed.",
                     "useSpacing": false,
                     "class": "DepictionMarkdownView"
                 },
