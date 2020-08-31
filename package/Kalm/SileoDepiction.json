@@ -142,17 +142,6 @@
                     "class": "DepictionTableButtonView"
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "alignment": 1,
-                    "rating": 4,
-                    "class": "DepictionRatingView"
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
                     "spacing": 10,
                     "class": "DepictionSpacerView"
                 }
