@@ -59,7 +59,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "# Weather",
+                    "markdown": "# Weather\r\n\r\nKalm shows the current weather on your lockscreen for either your current location or the first location of your Weather App. You’ll never forget to bring your umbrella, your gloves or your bathing suit.\r\n\r\nWant to see the condition as well? You can either display the current temperature only, or add the condition or location to it.\r\n\r\nIf you want to add some color to your weather Kalm let’s you disable the tinting of the weather condition icon, so if it’s sunny you will get your native yellow sun. Don’t like the icon at all? You can just hide it!\r\n\r\nWant to really know what the temperature feels like? Just enable the apparent temperature in settings and get the “feels like” temperature.",
                     "useSpacing": true
                 },
                 {
