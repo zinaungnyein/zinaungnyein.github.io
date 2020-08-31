@@ -55,9 +55,9 @@
                 },
                 {
                     "text": "Information",
-                    "margins": "{10, 0, 0, 0}",
+                    "margins": "{20, 0, 0, 0}",
                     "fontWeight": "bold",
-                    "fontSize": 17,
+                    "fontSize": 22,
                     "textColor": "#383838",
                     "alignment": 0,
                     "class": "DepictionLabelView"
