@@ -55,7 +55,7 @@
                 },
                 {
                     "text": "Information",
-                    "margins": "{10, 0, 30, 0}",
+                    "margins": "{10, 0, 10, 0}",
                     "fontWeight": "bold",
                     "fontSize": 23,
                     "textColor": "#383838",
@@ -108,9 +108,9 @@
                 },
                 {
                     "text": "Contact",
-                    "margins": "{10, 0, 0, 0}",
+                    "margins": "{10, 0, 10, 0}",
                     "fontWeight": "bold",
-                    "fontSize": 17,
+                    "fontSize": 23,
                     "textColor": "#383838",
                     "alignment": 0,
                     "class": "DepictionLabelView"
