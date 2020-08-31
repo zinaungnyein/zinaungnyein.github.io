@@ -128,7 +128,7 @@
                     "class": "DepictionLabelView"
                 },
                 {
-                    "title": "Contact the Support",
+                    "title": "Email",
                     "action": "mailto:zinaungnyein@icloud.com?subject=[Request Support]",
                     "openExternal": true,
                     "class": "DepictionTableButtonView"
