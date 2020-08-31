@@ -145,11 +145,9 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "title": "A review",
-                    "author": "by John Doe",
-                    "markdown": "I,John Doe,reviewed this.",
+                    "alignment": 1,
                     "rating": 4,
-                    "class": "DepictionReviewView"
+                    "class": "DepictionRatingView"
                 },
                 {
                     "class": "DepictionSeparatorView"
