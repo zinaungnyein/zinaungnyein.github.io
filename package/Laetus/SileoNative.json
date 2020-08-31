@@ -55,7 +55,7 @@
                 },
                 {
                     "text": "Information",
-                    "margins": "{0, 0, 30, 0}",
+                    "margins": "{10, 0, 30, 0}",
                     "fontWeight": "bold",
                     "fontSize": 23,
                     "textColor": "#383838",
