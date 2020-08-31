@@ -117,7 +117,7 @@
                     "title": "Contact the Support",
                     "action": "mailto:zinaungnyein@icloud.com?subject=[Support][candy]",
                     "openExternal": true
-                    "class": "DepictionTableButtonView",
+                    "class": "DepictionTableButtonView"
                 },
                 {
                     "class": "DepictionSeparatorView"
