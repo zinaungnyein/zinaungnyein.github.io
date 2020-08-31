@@ -66,10 +66,10 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "INFORMATION",
+                    "text": "Information",
                     "margins": "{10, 0, 0, 0}",
                     "fontWeight": "bold",
-                    "fontSize": 20,
+                    "fontSize": 17,
                     "textColor": "#383838",
                     "alignment": 0,
                     "class": "DepictionLabelView"
@@ -119,10 +119,10 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "CONTACT",
+                    "text": "Contact",
                     "margins": "{10, 0, 0, 0}",
                     "fontWeight": "bold",
-                    "fontSize": 20,
+                    "fontSize": 17,
                     "textColor": "#383838",
                     "alignment": 0,
                     "class": "DepictionLabelView"
