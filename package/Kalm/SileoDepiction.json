@@ -110,13 +110,16 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
+                    "title": "Contact the Support",
+                    "action": "mailto:zinaungnyein@icloud.com?subject=[Request Support]",
+                    "openExternal": true,
+                    "class": "DepictionTableButtonView"
                 },
                 {
-                    "title": "Contact the Support",
-                    "action": "mailto:zinaungnyein@icloud.com?subject=[Support][candy]",
+                    "title": "Donate",
+                    "action": "https://paypal.me/theshinyroom?locale.x=en_US",
                     "openExternal": true,
+                    "tintColor": "#777777",
                     "class": "DepictionTableButtonView"
                 },
                 {
