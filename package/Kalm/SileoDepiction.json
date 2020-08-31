@@ -145,6 +145,16 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
+                    "title": "A review",
+                    "author": "by John Doe",
+                    "markdown": "I,John Doe,reviewed this.",
+                    "rating": 4,
+                    "class": "DepictionReviewView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "spacing": 10,
                     "class": "DepictionSpacerView"
                 }
