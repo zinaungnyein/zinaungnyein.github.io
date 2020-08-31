@@ -128,17 +128,15 @@
                     "class": "DepictionLabelView"
                 },
                 {
-                    "title": "Email",
+                    "title": "E-mail",
                     "action": "mailto:zinaungnyein@icloud.com?subject=[Request Support]",
                     "openExternal": true,
-                    "tintColor": "#EFC050",
                     "class": "DepictionTableButtonView"
                 },
                 {
                     "title": "Donate",
                     "action": "https://paypal.me/theshinyroom?locale.x=en_US",
                     "openExternal": true,
-                    "tintColor": "#EFC050",
                     "class": "DepictionTableButtonView"
                 },
                 {
