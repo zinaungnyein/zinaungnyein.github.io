@@ -61,6 +61,24 @@ SileoDepiction: https://zinaungnyein.github.io/package/HomePlus-Pro/SileoNative.
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/HomePlus-Pro/SileoDepiction.json&name=HomePlus-Pro&section=Tools&dev=Kritanta
 Icon: file:///Applications/Cydia.app/Sections/Tools.png
 
+Package: com.po.kalm
+Version: 2.0.4
+Section: Tweaks
+Maintainer: ubik <cydia@ubikstyl.es>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, com.xcxiao.simplels2, com.lacertosusrepo.speculum, com.twickd.julius.april
+Architecture: iphoneos-arm
+Filename: ./package/Kalm/Kalm.deb
+Size: 373166
+Installed-Size: 1160
+MD5sum: 164904092b2fa1285e767fcb10680c4a
+Description: A beautiful first sight.
+Name: Kalm
+Author: ubik <cydia@ubikstyl.es>
+SileoDepiction: https://zinaungnyein.github.io/package/Kalm/SileoNative.json
+Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Kalm/SileoDepiction.json&name=Kalm&section=Tweaks&dev=Ubik
+Icon: file:///Applications/Cydia.app/Sections/Tweaks0.png
+
 Package: com.po.laetus
 Version: 3.0.3
 Section: Keyboards(Theme)
