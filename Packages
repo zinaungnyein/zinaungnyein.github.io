@@ -4,14 +4,29 @@ Section: Carrier (Themes)
 Maintainer: Devy_Design <idrainmax@gmail.com>
 Architecture: iphoneos-arm
 Filename: ./package/Candy/Candy_1.1.deb
-Size: 2177480
-MD5sum: e88f1c5ea4fd65b76abf6488bb391c46
+Size: 2177504
+MD5sum: 335fbdad83d31e83960bc910e59552a9
 Description: Make Your Status Bar Sweet Like a Candy.
 Name: Candy Status Bar
 Author: Devy_Design <idrainmax@gmail.com>
 SileoDepiction: https://zinaungnyein.github.io/package/Candy/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Candy/SileoDepiction.json&name=CandyStatusBar&section=Carrier&dev=Devy_Design
-Icon: https://zinaungnyein.github.io/package/Candy/Candy.png
+Icon: file:///Applications/Cydia.app/Sections/Carrier0.png
+
+Package: com.po.candystatusbar
+Version: 1.0
+Section: Carrier (Themes)
+Maintainer: Devy_Design <idrainmax@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./package/Candy/Candy_1.0.deb
+Size: 2159672
+MD5sum: 4c28415a4078962abaf1cb77921a2eb6
+Description: Make Your Status Bar Sweet Like a Candy.
+Name: Candy Status Bar
+Author: Devy_Design <idrainmax@gmail.com>
+SileoDepiction: https://zinaungnyein.github.io/package/Candy/SileoNative.json
+Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Candy/SileoDepiction.json&name=CandyStatusBar&section=Carrier&dev=Devy_Design
+Icon: file:///Applications/Cydia.app/Sections/Carrier0.png
 
 Package: com.po.dosis100
 Version: 1.0
