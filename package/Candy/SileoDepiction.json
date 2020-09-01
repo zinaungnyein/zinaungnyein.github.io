@@ -100,9 +100,9 @@
                 },
                 {
                     "text": "Contact",
-                    "margins": "{10, 0, 10, 0}",
+                    "margins": "{10, 0, 0, 0}",
                     "fontWeight": "bold",
-                    "fontSize": 23,
+                    "fontSize": 17,
                     "textColor": "#383838",
                     "alignment": 0,
                     "class": "DepictionLabelView"
