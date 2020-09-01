@@ -46,6 +46,15 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
+                    "text": "Information",
+                    "margins": "{10, 0, 10, 0}",
+                    "fontWeight": "bold",
+                    "fontSize": 23,
+                    "textColor": "#383838",
+                    "alignment": 0,
+                    "class": "DepictionLabelView"
+                },
+                {
                     "text": "1.0",
                     "title": "Version",
                     "class": "DepictionTableTextView"
@@ -85,6 +94,30 @@
                     "text": "Devy Design",
                     "title": "Developer",
                     "class": "DepictionTableTextView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "Contact",
+                    "margins": "{10, 0, 10, 0}",
+                    "fontWeight": "bold",
+                    "fontSize": 23,
+                    "textColor": "#383838",
+                    "alignment": 0,
+                    "class": "DepictionLabelView"
+                },
+                {
+                    "title": "E-mail",
+                    "action": "mailto:zinaungnyein@icloud.com?subject=[Request Support]",
+                    "openExternal": true,
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "Donate",
+                    "action": "https://paypal.me/theshinyroom?locale.x=en_US",
+                    "openExternal": true,
+                    "class": "DepictionTableButtonView"
                 },
                 {
                     "class": "DepictionSeparatorView"
