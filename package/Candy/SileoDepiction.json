@@ -123,6 +123,14 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
+                    "URL": "https://zinaungnyein.github.io/package/Kalm/CydiaIcon.png",
+                    "width": 54,
+                    "height": 54,
+                    "cornerRadius": 3,
+                    "alignment": 1,
+                    "class": "DepictionImageView"
+                },
+                {
                     "spacing": 10,
                     "class": "DepictionSpacerView"
                 }
