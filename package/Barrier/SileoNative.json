@@ -136,9 +136,9 @@
                 },
                 {
                     "URL": "https://zinaungnyein.github.io/package/Barrier/CydiaIcon.png",
-                    "width": 54,
-                    "height": 54,
-                    "cornerRadius": 3,
+                    "width": 56,
+                    "height": 56,
+                    "cornerRadius": 4,
                     "alignment": 1,
                     "class": "DepictionImageView"
                 },
