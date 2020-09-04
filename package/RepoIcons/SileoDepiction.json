@@ -47,7 +47,19 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "spacing": 10,
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "URL": "https://zinaungnyein.github.io/package/Barrier/CydiaIcon.png",
+                    "width": 56,
+                    "height": 56,
+                    "cornerRadius": 4,
+                    "alignment": 1,
+                    "class": "DepictionImageView"
+                },
+                {
+                    "spacing": 0,
                     "class": "DepictionSpacerView"
                 }
             ],
