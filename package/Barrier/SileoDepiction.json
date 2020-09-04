@@ -133,6 +133,36 @@
                 {
                     "spacing": 10,
                     "class": "DepictionSpacerView"
+                },
+                {
+                    "URL": "https://zinaungnyein.github.io/package/Barrier/CydiaIcon.png",
+                    "width": 54,
+                    "height": 54,
+                    "cornerRadius": 3,
+                    "alignment": 1,
+                    "class": "DepictionImageView"
+                },
+                {
+                    "text": "Pomelon",
+                    "margins": "{10.5, 0, 0, 0}",
+                    "fontWeight": "regular",
+                    "fontSize": 18,
+                    "textColor": "#6B5B95",
+                    "alignment": 1,
+                    "class": "DepictionLabelView"
+                },
+                {
+                    "text": "Life was A Box of Chocolates",
+                    "margins": "{10, 0, 0, 0}",
+                    "fontWeight": "light",
+                    "fontSize": 14,
+                    "textColor": "#6B5B95",
+                    "alignment": 1,
+                    "class": "DepictionLabelView"
+                },
+                {
+                    "spacing": 10,
+                    "class": "DepictionSpacerView"
                 }
             ]
         },
