@@ -143,9 +143,13 @@
                     "class": "DepictionImageView"
                 },
                 {
-                    "markdown": "<p style=\"color: #383838; text-align: center;\">Pomelon</p>",
-                    "useRawFormat": true,
-                    "class": "DepictionMarkdownView"
+                    "text": "Pomelon",
+                    "margins": "{10.5, 0, 0, 0}",
+                    "fontWeight": "regular",
+                    "fontSize": 18,
+                    "textColor": "#FE7A80",
+                    "alignment": 1,
+                    "class": "DepictionLabelView"
                 },
                 {
                     "text": "Life was A Box of Chocolates",
