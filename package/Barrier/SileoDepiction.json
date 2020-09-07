@@ -147,7 +147,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "markdown": "<p style=\"color: #FF6F61; font-size: 23px; font-weight: regular; text-align: center; margin-top: 5px; margin-bottom: 26px;\">Pomelon</p><p style=\"color: #FF6F61; font-size: 12px; font-weight: regular; text-align: center;\">Life was A Boxtyyy of Chocolates</p>",
+                    "markdown": "<p style=\"color: #FF6F61; font-size: 23px; font-weight: regular; text-align: center; margin-top: 5px; margin-bottom: 26px;\">Pomelon</p><p style=\"color: #FF6F61; font-size: 12px; font-weight: regular; text-align: center;\">Life was A Box of Chocolates</p>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
                 },
