@@ -102,6 +102,15 @@
                     "class": "DepictionImageView"
                 },
                 {
+                    "spacing": 9,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "markdown": "<p style=\"color: #FF6F61; font-size: 23px; font-weight: regular; text-align: center; margin-top: 20px; margin-bottom: 20px;\">Pomelon</p><p style=\"color: #FF6F61; font-size: 12px; font-weight: regular; text-align: center;\">Life was A Box of Chocolates</p>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
                     "spacing": 0,
                     "class": "DepictionSpacerView"
                 }

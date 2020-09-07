@@ -143,22 +143,13 @@
                     "class": "DepictionImageView"
                 },
                 {
-                    "text": "Pomelon",
-                    "margins": "{10.5, 0, 0, 0}",
-                    "fontWeight": "regular",
-                    "fontSize": 18,
-                    "textColor": "#FE7A80",
-                    "alignment": 1,
-                    "class": "DepictionLabelView"
+                    "spacing": 9,
+                    "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "Life was A Box of Chocolates",
-                    "margins": "{10, 0, 0, 0}",
-                    "fontWeight": "light",
-                    "fontSize": 14,
-                    "textColor": "#FE7A80",
-                    "alignment": 1,
-                    "class": "DepictionLabelView"
+                    "markdown": "<p style=\"color: #FF6F61; font-size: 23px; font-weight: regular; text-align: center; margin-top: 20px; margin-bottom: 20px;\">Pomelon</p><p style=\"color: #FF6F61; font-size: 12px; font-weight: regular; text-align: center;\">Life was A Box of Chocolates</p>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "spacing": 10,
