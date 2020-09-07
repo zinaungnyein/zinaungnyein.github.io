@@ -148,12 +148,12 @@
                     "class": "DepictionMarkdownView"
                 },
                 {
-                    "markdown": "<p style=\"color: #383838; font-size: 13px; font-weight: regular; margin-top: -20px; text-align: center;\">Life was A Box of Chocolates</p>",
+                    "markdown": "<p style=\"color: #383838; font-size: 13px; font-weight: regular; margin-top: 100px; text-align: center;\">Life was A Box of Chocolates</p>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
                 },
                 {
-                    "spacing": 10,
+                    "spacing": 0,
                     "class": "DepictionSpacerView"
                 }
             ]
