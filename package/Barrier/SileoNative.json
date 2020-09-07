@@ -143,11 +143,11 @@
                     "class": "DepictionImageView"
                 },
                 {
-                    "spacing": 10,
+                    "spacing": 9,
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "markdown": "<p style=\"color: #383838; font-size: 22px; font-weight: regular; text-align: center; margin-top: 20px; margin-bottom: 20px;\">Pomelon</p><p style=\"color: #383838; font-size: 13px; font-weight: regular; text-align: center;\">Life was A Box of Chocolates</p>",
+                    "markdown": "<p style=\"color: #383838; font-size: 22px; font-weight: regular; text-align: center; margin-top: 20px; margin-bottom: 20px;\">Pomelon</p><p style=\"color: #383838; font-size: 13px; font-weight: regular; text-align: center;\">Life was A Box tyuof Chocolates</p>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
                 },
