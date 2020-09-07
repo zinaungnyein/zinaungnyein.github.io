@@ -150,12 +150,12 @@ Maintainer: CoolStar <zinaungnyein@icloud.com>
 Depends: com.anemonetheming.anemone
 Architecture: iphoneos-arm
 Filename: ./package/CircleIcons/CircleIcons.deb
-Size: 106038
-MD5sum: 8c0c12ec1568c7415d830f297a96ff89
+Size: 106042
+MD5sum: 4b7335dae90b3f4ac0a2ff04821230aa
 Description: Circle Icons with cool overlays!
 Name: CircleIcons
 Author: CoolStar <zinaungnyein@icloud.com>
-SileoDepiction: https://zinaungnyein.github.io/package/CircleIcons/SileoNative.json
+SileoDepiction: https://zinaungnyein.github.io/package/CircleIcons/Sileo/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/CircleIcons/SileoDepiction.json&name=CircleIcons&section=Themes&dev=coolstar
 Icon: file:///Applications/Cydia.app/Sections/Themes0.png
 
