@@ -1,0 +1,163 @@
+.navbar {
+    background: rgba(255,255,255,0.2) !important;
+    z-index: 2;
+    backdrop-filter: blur(10px) saturate(125%);
+    -webkit-backdrop-filter: blur(10px) saturate(125%);
+    border-bottom: 1px solid #d3d3d3;
+    }
+    .navbar-dark .navbar-nav .nav-link {
+    color: #383838;
+    }
+    .navbar-brand.custom {
+    	color: #383838;
+    }
+    @font-face {
+        src: url(./Mija-W03-Regular.otf) format('opentype');
+        font-family: 'Mija-W03-Regular';
+    }
+    .logo {
+    	margin-top: 100px;
+    }
+    .headrepo-text {
+    	font-weight: bold;
+    	font-size: 50px;
+    	margin-top: 100px;
+    	color: #383838;
+    	font-family: 'Mija-W03-Regular';
+    }
+    .headrepo2-text {
+    	font-weight: bold;
+    	font-size: 50px;
+    	margin-top: -40px;
+    	color: #383838;
+    	font-family: 'Mija-W03-Regular';
+    }
+    .subrepo-text {
+    	margin-top: 30px;
+    }
+    .firstimgtext {
+    	font-size: 40px;
+    	font-weight: bold;
+    }
+    .secondimgtext {
+    	font-weight: bold;
+    }
+    .repo{
+        height: 900px;
+        background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72);
+        padding-right:0;
+        padding-left:0;
+        margin-right:auto;
+        margin-left:auto;
+   }
+   .repoaddtext {
+   	    text-align: center;
+   	    color: #fff;
+   	    font-size: 36px;
+   }
+   .repopress {
+   	    text-align: center;
+   	    color: #fff;
+   	    font-size: 15px;
+   }
+   .cydialogo {
+   	    border-radius: 15px;
+   	    margin-top: 50px;
+   }
+   .cydiatext {
+   	    text-align: center;
+   	    color: #fff;
+   	    margin-top: 15px;
+   }
+   .sileologo {
+   	    border-radius: 15px;
+   	    margin-top: 50px;
+   }
+   .sileotext {
+   	    text-align: center;
+   	    color: #fff;
+   	    margin-top: 15px;
+   }
+   .zebralogo {
+   	    border-radius: 15px;
+   	    margin-top: 50px;
+   }
+   .zebratext {
+   	    text-align: center;
+   	    color: #fff;
+   	    margin-top: 15px;
+   }
+   .installerlogo {
+   	    border-radius: 15px;
+   	    margin-top: 50px;
+   }
+   .installertext {
+   	    text-align: center;
+   	    color: #fff;
+   	    margin-top: 15px;
+   }
+   .barrier {
+   	    height: 600px;
+        background: #000;
+        padding-right:0;
+        padding-left:0;
+        margin-right:auto;
+        margin-left:auto;
+   }
+   .packages {
+   	    padding-top: 6px;
+   	    margin-bottom: 15px;
+   	    font-weight: bold;
+   	    background: linear-gradient(to right, #ff6a00, #ee0979);
+   	    -webkit-text-fill-color: transparent;
+   	    -webkit-background-clip: text;
+   }
+   .popular {
+   	    padding-top: 25px;
+   	    color: #fff;
+   }
+   .package {
+   	    alignment: center;
+   }
+   .youtube {
+   	    height: 130px;
+   	    width: 130px;
+   	    margin-top: 6px;
+   }
+   .fbdarkmode {
+   	    height: 130px;
+   	    width: 130px;
+   	    margin-top: 6px;
+   }
+   .innerDiv1 {
+   	    padding-top: 20px;
+   }
+   .yt {
+   	    display: inline-block;
+   }
+   .yt1img {
+   	    border-radius: 15px;
+   	    object-fit: cover;
+   }
+   .yt2img {
+   	    border-radius: 15px;
+   	    object-fit: cover;
+   }
+   .yt3img {
+   	    border-radius: 15px;
+   	    object-fit: cover;
+   }
+   .yt4img {
+   	    border-radius: 15px;
+   	    object-fit: cover;
+   }
+   .tweakhead {
+   	    padding-top: 5px;
+   	    color: #fff;
+   	    font-size: 20px;
+   }
+   .tweaktitle {
+   	    margin-top: -18px;
+   	    color: #717171;
+   	    font-size: 13px;
+   }

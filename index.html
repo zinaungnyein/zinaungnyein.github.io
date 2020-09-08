@@ -1,211 +1,128 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Po's Slices</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, user-stable=0">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-  <link rel="stylesheet" href="style.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <style>
-        @font-face {
-         src: url(fonts/Mija-W03-Regular.otf) format('opentype');
-         font-family: 'Mija-W03-Regular';
-        }
-        .body {
-         font-family: 'Mija-W03-Regular';
-        }
-        .repoicon {
-         display: block;
-         margin-left: auto;
-         margin-right: auto;
-         margin-top: 20px;
-         margin-bottom: 25px;
-         width: 19%;
-         height: 19%;
-         object-fit: cover;
-        }
-        .header {
-         text-align: center;
-         font-size: 38px;
-         font-weight: 480;
-         color: #FE7A80;
-        }
-        .title {
-         margin-top: 25px;
-         margin-left: 20px;
-         margin-right: 20px;
-         text-align: center;
-         font-size: 15px;
-         font-weight: 500;
-         color: #383838;
-        }
-        .content1 {
-         margin-top: 30px;
-         margin-left: 25px;
-        }
-        .content1 .cydia {
-         width: 120px;
-         display: inline-block;
-         background: linear-gradient(45deg, #772F1A, #F2A65A);
-         border-radius: 6px;
-         padding: 11px;
-         box-sizing: border-box;
-         text-decoration: none;
-         text-align: center;
-         color: #fff;
-         box-shadow: 3px 8px 22px rgba(94, 28, 68, 0.15);
-        }
-        .content2 {
-         margin-top: -46px;
-         margin-left: 175px;
-        }
-        .content2 .sileo {
-         width: 120px;
-         display: inline-block;
-         background: linear-gradient(45deg, #007991, #78FFD6);
-         border-radius: 6px;
-         padding: 11px;
-         box-sizing: border-box;
-         text-decoration: none;
-         text-align: center;
-         color: #fff;
-         box-shadow: 3px 8px 22px rgba(94, 28, 68, 0.15);
-        }
-        .content3 {
-         margin-top: 30px;
-         margin-left: 25px;
-        }
-        .content3 .zebra {
-         width: 120px;
-         display: inline-block;
-         background: linear-gradient(45deg, #242222, #434343);
-         border-radius: 6px;
-         padding: 11px;
-         box-sizing: border-box;
-         text-decoration: none;
-         text-align: center;
-         color: #fff;
-         box-shadow: 3px 8px 22px rgba(94, 28, 68, 0.15);
-        }
-        .content4 {
-         margin-top: -46px;
-         margin-left: 175px;
-        }
-        .content4 .installer {
-         width: 120px;
-         display: inline-block;
-         background: linear-gradient(45deg, #11738C, #6DD5ED);
-         border-radius: 6px;
-         padding: 11px;
-         box-sizing: border-box;
-         text-decoration: none;
-         text-align: center;
-         color: #fff;
-         box-shadow: 3px 8px 22px rgba(94, 28, 68, 0.15);
-         margin-bottom: 50px;
-        }
-        .card1 {
-        	box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.5);
-        	transition: 0.4s;
-        	width: 290px;
-        	height: 400px;
-        	background: #fff;
-        	float: left;
-        	position: relative;
-        	left: 1.5%;
-        	margin: 10px;
-        	border-radius: 14px;
-        	margin-bottom: 30px;
-        }
-        .card1 img {
-        	border-radius: 14px 14px 0 0;
-        }        
-        .container {
-        	text-align: left;
-        	font-size: 18px;
-        	margin: auto;
-        	width: 100%;
-        	padding: 23px;
-        }
-        .homepluspro {
-        	position: absolute;
-        	top: 8px;
-        	left: 16px;
-        	font-size: 70px;
-        	font-weight: bold;
-        	color: #fff;
-        }
-        .card2 {
-        	box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.5);
-        	transition: 0.4s;
-        	width: 290px;
-        	height: 400px;
-        	background: #fff;
-        	float: left;
-        	position: relative;
-        	left: 1.5%;
-        	margin: 10px;
-        	border-radius: 14px;
-        }
-        .card2 img {
-        	border-radius: 14px 14px 0 0;
-        }        
-        .container2 {
-        	text-align: left;
-        	font-size: 18px;
-        	margin: auto;
-        	width: 100%;
-        	padding: 28px;
-        }
-        .candy {
-        	position: absolute;
-        	top: 8px;
-        	left: 16px;
-        	font-size: 70px;
-        	font-weight: bold;
-        	color: #FF6F61;
-        }
-  </style>
-  <meta name="theme-color" content="#677E94">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Po's Slices</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+<link rel="stylesheet" href="assets/style.css">
+<meta name="theme-color" content="#383838">
+<!-- stylesheet starts -->
 </head>
 <body>
-<div class="body">
-     <div class="repoicon">
-     	<img src="CydiaIcon.png" width=55px height=55px></img>
-     </div>
-     <div class="header">
-     	<p>Pomelon</p>
-     </div>
-     <div class="title">
-     	<p>Please buy me a 🍺 <a href="https://paypal.me/theshinyroom?locale.x=en_US"> via Paypal <i class="fab fa-paypal"></i></p>
-     </div>
-     <div class="content1">
-     	<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://zinaungnyein.github.io/" class="cydia">Cydia</a>
-     </div>
-     <div class="content2">
-     	<a href="sileo://source/https://zinaungnyein.github.io/" class="sileo">Sileo</a>
-     </div>
-     <div class="content3">
-     	<a href="zbra://sources/add/https://zinaungnyein.github.io/" class="zebra">Zebra</a>
-     </div>
-     <div class="content4">
-     	<a href="installer://add/https://zinaungnyein.github.io/" class="installer">Installer</a>
-     </div>
-     <div class="card1">
-     	<div class="homepluspro"><h1>Home</h1><h1>Plus</h1><h1>Pro</h1></div>
-     	<img src="./assets/icons/test.jpg" style="width:100%">
-     	<div class="container">
-     		<p>Dynamic, live homescreen layout with an intuitive UI</p>
-     	</div>
-     </div>
-     <div class="card2">
-     	<div class="candy"><h1>Candy</h1><h1>Status</h1><h1>Bar</h1></div>
-     	<img src="./assets/icons/test2.jpg" style="width:100%">
-     	<div class="container2">
-     		<p>Make Your Status Bar Sweet Like a Candy</p>
-     	</div>
-     </div>
+<!-- NavBar Start -->
+<nav class="navbar fixed-top navbar-expand-md bg-dark navbar-dark">
+  <a class="navbar-brand custom" href="#"><img src="CydiaIcon.png" width="30" height="30" class="d-inline-block align-top" alt=""> Pomelon</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="" role="button" ><i class="fa fa-bars" aria-hidden="true" style="color:#383838"></i></span>
+  </button>
+  <div class="collapse navbar-collapse" id="collapsibleNavbar">
+    <ul class="navbar-nav">
+  <!-- <li class="nav-item">
+        <a class="nav-link" href="#">About</a>
+      </li> -->
+      <li class="nav-item">
+        <a class="nav-link" href="mailto:zinaungnyein@icloud.com?subject=[Request Support]">Contact</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://zinaungnyein.github.io/po/repo/?repo=https://zinaungnyein.github.io/">Packages</a>
+      </li>    
+    </ul>
+  </div>  
+</nav>
+<!-- NavBar End -->
+<!-- header start -->
+<div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+               <!-- <img src="CydiaIcon.png" height="55" class="img-responsive logo center-block d-block mx-auto" alt="Pomelon"> -->
+                <p class="text-center headrepo-text">Pomelon</p>
+                <p class="text-center headrepo2-text">Repo</p>
+                <p class="text-center subrepo-text">If you'd like to have this repo for years, you can buy me a 🍺 <a href="https://paypal.me/theshinyroom?locale.x=en_US">via Paypal <i class="fab fa-paypal"></i></a></p>
+            </div>
+        </div>
 </div>
+<!-- header done -->
+<!-- Repo Adding -->
+<div class="container-fluid repo">
+  <div class="row-fluid">
+    <div class="col-lg-12">
+    	<h2 class="repoaddtext pt-5">Add repo by desire platforms</h2>
+    	<h5 class="repopress">(Press the logo to add repo)</h5>
+    </div>
+    <div class="col-lg-12">
+    	<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://zinaungnyein.github.io/"><img src="Cydia.jpg" height="80" class="img-responsive cydialogo center-block d-block mx-auto" alt="Pomelon""></a>
+    	<h4 class="cydiatext">Cydia</h4>
+    </div>
+    <div class="col-lg-12">
+    	<a href="sileo://source/https://zinaungnyein.github.io/"><img src="Sileo.jpg" height="80" class="img-responsive sileologo center-block d-block mx-auto" alt="Pomelon""></a>
+    	<h4 class="sileotext">Sileo</h4>
+    </div>
+    <div class="col-lg-12">
+    	<a href="zbra://sources/add/https://zinaungnyein.github.io/"><img src="Zebra.jpg" height="75" class="img-responsive zebralogo center-block d-block mx-auto" alt="Pomelon""></a>
+    	<h4 class="zebratext">Zebra</h4>
+    </div>
+    <div class="col-lg-12">
+    	<a href="installer://add/https://zinaungnyein.github.io/"><img src="Installer.jpg" height="80" class="img-responsive installerlogo center-block d-block mx-auto" alt="Pomelon""></a>
+    	<h4 class="installertext">Installer</h4>
+    </div>
+  </div>
+</div>
+<!-- Repo Adding -->
+<!-- Elegance part start -->
+<div class="container">
+         <div class="row">
+            <div class="col-lg-12">
+                <img src="firstimg.png" height="285px" class="img-responsive firstimg center-block d-block mx-auto" alt="Pomelon">
+                <h1 class="text-center firstimgtext">ELEGANCE</h1>
+                <p class="text-center">A repo designed for curious look and smooth as you've imagined</p>
+            </div>
+        </div>
+</div>
+<!-- Elegance part done -->
+<!-- barrier start -->
+<div class="container-fluid barrier">
+	<div class="row-fluid">
+		<div class="col-lg-12">
+			<h4 class="popular text-center">popular</h4>
+			<h1 class="packages text-center">PACKAGES</h1>
+		</div>
+	</div>
+<!-- test -->
+<!-- first two start -->
+<div class="innerDiv1 text-center">
+	<a class="yt p-1" href="https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Barrier/SileoDepiction.json&name=Barrier&section=Tweaks&dev=Po"><img class="yt1img" src="yellow.png" width="140px" height="140px"><br><p class="tweakhead">Barrier</p><p class="tweaktitle">No ads for YouTube</p></a>
+	<a class="yt p-1" href="https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Dosis-100/SileoDepiction.json&name=Dosis-100&section=Fonts&dev=Alexman"><img class="yt2img" src="purple.png" width="140px" height="140px"><br><p class="tweakhead">Dosis</p><p class="tweaktitle">Smart Font iOS13</p></a>
+</div>
+<!-- first two done -->
+<div class="innerDiv2 text-center">
+	<a class="yt p-1" href="https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/FBDarkMode/SileoDepiction.json&name=FBDarkMode&section=Themes&dev=ZinAungNyein"><img class="yt3img" src="pink.png" width="140px" height="140px"><br><p class="tweakhead">FBDark</p><p class="tweaktitle">FB App Dark Mode</p></a>
+	<a class="yt p-1" href="https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Candy/SileoDepiction.json&name=CandyStatusBar&section=Carrier&dev=Devy_Design"><img class="yt4img" src="green.png" width="140px" height="140px"><br><p class="tweakhead">Candy</p><p class="tweaktitle">Colorful Statusbar</p></a>
+</div>
+<!-- test -->
+</div>
+<!-- barrier done -->
+<div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <img src="secondimg.jpeg" height="285px" class="img-responsive center-block d-block mx-auto" alt="Pomelon">
+                <h1 class="text-center secondimgtext">USEFUL</h1>
+                <p class="text-center">Up to date reliable tweaks accordingly your iOS Versions</p>
+            </div>
+        </div>
+</div>
+<div class="caption text-center footer" style="font-size:9px;">2020 © Po ALL RIGHTS RESERVED<br>Developed by Po
+</div>
+<!-- Write codes above this line -->
+<!-- body END -->
+<!-- All scripts start -->
+<!-- IMPORTANT -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://kit.fontawesome.com/dda4af39da.js" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+<!-- Scripts END -->
 </body>
 </html>
