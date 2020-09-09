@@ -11,6 +11,9 @@
     .navbar-brand.custom {
     	color: #383838;
     }
+    .mytoast {
+    	margin-top: 100px;
+    }
     @font-face {
         src: url(./Mija-W03-Regular.otf) format('opentype');
         font-family: 'Mija-W03-Regular';
@@ -21,7 +24,7 @@
     .headrepo-text {
     	font-weight: bold;
     	font-size: 50px;
-    	margin-top: 100px;
+    	margin-top: 50px;
     	color: #383838;
     	font-family: 'Mija-W03-Regular';
     }
@@ -160,4 +163,19 @@
    	    margin-top: -18px;
    	    color: #717171;
    	    font-size: 13px;
+   }
+   .nldimg {
+   	    height: 50px;
+   	    width: 50px;
+   	    object-fit: cover;
+   }
+   .nldtext {
+   	    color: red;
+   	    text-align: center;
+   	    font-size: 20px;
+   }
+   .toast {
+   	    text-align: center;
+   	    margin-left: auto;
+   	    margin-right: auto;
    }
