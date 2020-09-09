@@ -170,6 +170,44 @@
             "class": "DepictionStackView",
             "views": [
                 {
+                    "title": "Version 2.1.1",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Changes: \r\n\r\n* Added seperate failsafe for Reminders and Calendars app\r\n\r\n* Optimized LatchKey compatibility\r\n\r\n* Fixed rare SpringBoard crash when tapping on a Notification\r\n\r\n* Version bump to 2.1.1 because of versioning error in 2.0.5 (should’ve been 2.1.0)\r\n\r\n* Code cleanup",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 27/07/20</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version 2.0.5",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Changes: \r\n\r\n* Added possibility to switch weather icon and label\r\n\r\n* Added possibility to switch time and weather view with Compact Appearance\r\n\r\n* Added possibility to enable condition or location with Compact Appearance\r\n\r\n* Added possibility to hide the Up Next event time - Cheers Chris :)\r\n\r\n* Fixed issue with events not having the correct order with 12-hour mode\r\n\r\n* Fixed issue with weird resizing on iPads\r\n\r\n* Fixed issue on devices that use RTL languages\r\n\r\n* Fixed issue where the media player could appear too low (CF5)\r\n\r\n* Fixed issue where changing the wallpaper would result in a SpringBoard crash if Quart was installed",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 27/07/20</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "title": "Version 2.0.4",
                     "useBoldText": true,
                     "useBottomMargin": true,
