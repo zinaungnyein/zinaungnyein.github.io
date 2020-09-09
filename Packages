@@ -92,6 +92,42 @@ Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.i
 Icon: file:///Applications/Cydia.app/Sections/Tools.png
 
 Package: com.po.kalm
+Version: 2.0.5
+Section: Tweaks
+Maintainer: ubik <cydia@ubikstyl.es>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, com.xcxiao.simplels2, com.lacertosusrepo.speculum, com.twickd.julius.april
+Architecture: iphoneos-arm
+Filename: ./package/Kalm/Kalm_2_0_5.deb
+Size: 382658
+Installed-Size: 1188
+MD5sum: 7ba136a404dbd8fe54ea294ab9169bd7
+Description: A beautiful first sight.
+Name: Kalm
+Author: ubik <cydia@ubikstyl.es>
+SileoDepiction: https://zinaungnyein.github.io/package/Kalm/SileoNative.json
+Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Kalm/SileoDepiction.json&name=Kalm&section=Tweaks&dev=Ubik
+Icon: file:///Applications/Cydia.app/Sections/Tweaks0.png
+
+Package: com.po.kalm
+Version: 2.1.1
+Section: Tweaks
+Maintainer: ubik <cydia@ubikstyl.es>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, com.xcxiao.simplels2, com.lacertosusrepo.speculum, com.twickd.julius.april
+Architecture: iphoneos-arm
+Filename: ./package/Kalm/Kalm_2_1_1.deb
+Size: 382544
+Installed-Size: 1204
+MD5sum: 8abae7aa9440b1277d54b5a6d34d32ef
+Description: A beautiful first sight.
+Name: Kalm
+Author: ubik <cydia@ubikstyl.es>
+SileoDepiction: https://zinaungnyein.github.io/package/Kalm/SileoNative.json
+Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Kalm/SileoDepiction.json&name=Kalm&section=Tweaks&dev=Ubik
+Icon: file:///Applications/Cydia.app/Sections/Tweaks0.png
+
+Package: com.po.kalm
 Version: 2.0.4
 Section: Tweaks
 Maintainer: ubik <cydia@ubikstyl.es>
