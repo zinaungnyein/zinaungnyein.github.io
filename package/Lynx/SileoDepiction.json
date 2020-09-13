@@ -1,0 +1,184 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://zinaungnyein.github.io/package/Barrier/SileoBanner.jpg",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "itemCornerRadius": 6.0,
+                    "itemSize": "{70, 360.41333333333336}",
+                    "screenshots": [
+                        {
+                            "url": "https://zinaungnyein.github.io/package/Lynx/1.png",
+                            "accessibilityText": "Screenshot0"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/Lynx/2.png",
+                            "accessibilityText": "Screenshot1"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/Lynx/3.png",
+                            "accessibilityText": "Screenshot2"
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Lynx",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "A dynamic customization tweak for iOS 13",
+                    "useBoldText": true,
+                    "useBottomMargin": true
+                },
+                {
+                    "useSpacing": true,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Requires Cephei from [Chariz](https://repo.chariz.com), libsparkcolourpicker and libSparkAppList from [Spark Repo](https://sparkdev.me/)",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "Information",
+                    "margins": "{10, 0, 0, 0}",
+                    "fontWeight": "bold",
+                    "fontSize": 17,
+                    "textColor": "#383838",
+                    "alignment": 0,
+                    "class": "DepictionLabelView"
+                },
+                {
+                    "text": "1.0",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Aug 27, 2020",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Free",
+                    "title": "Price",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "iOS 11-13.6",
+                    "title": "Compatibility",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "MTAC",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "Contact",
+                    "margins": "{10, 0, 0, 0}",
+                    "fontWeight": "bold",
+                    "fontSize": 17,
+                    "textColor": "#383838",
+                    "alignment": 0,
+                    "class": "DepictionLabelView"
+                },
+                {
+                    "title": "E-mail",
+                    "action": "mailto:zinaungnyein@icloud.com?subject=[Request Support]",
+                    "openExternal": true,
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "Donate",
+                    "action": "https://paypal.me/theshinyroom?locale.x=en_US",
+                    "openExternal": true,
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "URL": "https://zinaungnyein.github.io/package/Barrier/CydiaIcon.png",
+                    "width": 56,
+                    "height": 56,
+                    "cornerRadius": 4,
+                    "alignment": 1,
+                    "class": "DepictionImageView"
+                },
+                {
+                    "spacing": 0,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "markdown": "<p style=\"color: #FF6F61; font-size: 23px; font-weight: regular; text-align: center; margin-top: 5px; margin-bottom: 26px;\">Pomelon</p><p style=\"color: #FF6F61; font-size: 12px; font-weight: regular; text-align: center;\">Life was A Box of Chocolates</p>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 0,
+                    "class": "DepictionSpacerView"
+                }
+            ]
+        },
+        {
+            "tabname": "Changes",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "title": "Version 1.0",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Initial Release.",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 27/08/20</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                }
+            ]
+        }
+    ],
+    "tintColor": "#22bbf9",
+    "minVersion": "0.1"
+}
