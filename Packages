@@ -179,24 +179,6 @@ SileoDepiction: https://zinaungnyein.github.io/package/SparkColorPicker/SileoNat
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/SparkColorPicker/SileoDepiction.json&name= LibSparkColorPicker&section=System&dev=Spark
 Icon: file:///Applications/Cydia.app/Sections/System0.png
 
-Package: com.pomelon.lynx
-Version: 1.7.3
-Section: Tweaks
-Maintainer: MTAC <mtactheming@gmail.com>
-Depends: mobilesubstrate, ws.hbang.common, firmware (>= 13.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
-Conflicts: 
-Architecture: iphoneos-arm
-Filename: ./package/Lynx/Lynx.deb
-Size: 1004344
-Installed-Size: 2180
-MD5sum: f7f59d383c6dfd82d388e82bb3f678df
-Description: Ultimate device customization
-Name: Lynx
-Author: MTAC <mtactheming@gmail.com>
-SileoDepiction: https://zinaungnyein.github.io/package/Lynx/SileoNative.json
-Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Lynx/SileoDepiction.json&name=Lynx&section=Tweaks&dev=MTAC
-Icon: file:///Applications/Cydia.app/Sections/Tweaks0.png
-
 Package: com.thefatrat.circleicons
 Version: 1.3.2
 Section: Themes
