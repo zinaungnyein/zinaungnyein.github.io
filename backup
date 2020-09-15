@@ -180,7 +180,7 @@ FILE:
 
 	$tv{'SileoDepiction'} = "https://zinaungnyein.github.io/package/$p.json";
 
-	$tv{'Icon'} = "https://usrlightmann.github.io/assets/icons/$p.png";
+	$tv{'Icon'} = "https://zinaungnyein.github.io/assets/icons/$p.png";
 	
 	my @checksums = (
 		{

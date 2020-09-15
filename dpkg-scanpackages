@@ -12,7 +12,7 @@ my $dpkglibdir="/usr/lib/dpkg"; # This line modified by Makefile
 ($0) = $0 =~ m:.*/(.+):;
 
 push(@INC,$dpkglibdir);
-require './dpkg-gettext.pl';
+require 'dpkg-gettext.pl';
 textdomain("dpkg-dev");
 
 my %kmap= (optional         => 'suggests',
@@ -46,13 +46,13 @@ my @fieldpri= ('Package',
 	       'Description',
 	       'Origin',
 	       'Bugs',
-           'Name',
-           'Author',
-           'Homepage',
-           'Website',
-           'Depiction',
-		   'SileoDepiction',
-           'Icon'
+               'Name',
+               'Author',
+               'Homepage',
+               'Website',
+               'SileoDepiction',
+               'Depiction',
+               'Icon'
 	      );
 
 # This maps the fields into the proper case
@@ -78,7 +78,6 @@ sub version {
 sub usage {
     printf _g(
 "Usage: %s [<option> ...] <binarypath> <overridefile> [<pathprefix>] > Packages
-
 Options:
   -u, --udeb               scan for udebs.
   -a, --arch <arch>        architecture to scan for.
@@ -176,12 +175,13 @@ FILE:
 	
 	$tv{'Filename'}= "$pathprefix$fn";
 	
-	my @checksums = (
+	open(C,"md5sum <$fn |") || die "$fn $!";
+	chop($_=<C>); close(C); $? and die sprintf(_g("\`md5sum < %s' exited with %d"), $fn, $?)."\n";
+	/^([0-9a-f]{32})\s*-?\s*$/ or die sprintf(_g("Strange text from \`md5sum < %s': \`%s'"), $fn, $_)."\n";
+	$tv{'MD5sum'}= $1;
+
+    my @checksums = (
 		{
-			command => "md5sum",
-			fieldName => "MD5sum",
-			sumLength => 32 
-		}, {
 			command => "sha1sum",
 			fieldName => "SHA1",
 			sumLength => 40 
