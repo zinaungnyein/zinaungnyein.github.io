@@ -175,6 +175,12 @@ FILE:
 	    if defined($tv{'Filename'});
 	
 	$tv{'Filename'}= "$pathprefix$fn";
+
+	$tv{'Depiction'} = "https://zinaungnyein.github.io/po/?=$p";
+
+	$tv{'SileoDepiction'} = "https://zinaungnyein.github.io/package/$p.json";
+
+	$tv{'Icon'} = "https://usrlightmann.github.io/assets/icons/$p.png";
 	
 	my @checksums = (
 		{
