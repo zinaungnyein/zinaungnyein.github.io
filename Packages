@@ -92,6 +92,7 @@ Conflicts: me.kritanta.homeplus
 Architecture: iphoneos-arm
 Filename: ./package/HomePlus-Pro/HomePlus-Pro.deb
 Size: 1052820
+Installed-Size: 3352
 MD5sum: 708f49e1799fa5f620fe609292412e3e
 SHA1: 1b3ab1ab356e930601d8c97d79d19da9e76692fe
 SHA256: 207c502ef9c067d0de520bb16af7fa87043567a325876192583d55cc95d3ad6c
@@ -111,6 +112,7 @@ Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, c
 Architecture: iphoneos-arm
 Filename: ./package/Kalm/Kalm_2_0_5.deb
 Size: 382658
+Installed-Size: 1188
 MD5sum: 7ba136a404dbd8fe54ea294ab9169bd7
 SHA1: 0bcfab5870b4c015102d8931e7f4c0d464a2a7d0
 SHA256: 636e38a5b91146b447df6a406639245e1f14371ffd5931eabbcabdfb0f563bef
@@ -130,6 +132,7 @@ Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, c
 Architecture: iphoneos-arm
 Filename: ./package/Kalm/Kalm_2_1_1.deb
 Size: 382544
+Installed-Size: 1204
 MD5sum: 8abae7aa9440b1277d54b5a6d34d32ef
 SHA1: 44642ee4cd18c3a08727ee34467ae4664c9e4539
 SHA256: 4570754c04d426bee14195a18574dab9bc149e661c77e8f567a9d89ae905d1bb
@@ -149,6 +152,7 @@ Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, c
 Architecture: iphoneos-arm
 Filename: ./package/Kalm/Kalm.deb
 Size: 373166
+Installed-Size: 1160
 MD5sum: 164904092b2fa1285e767fcb10680c4a
 SHA1: 1d3212fc957c276cd704b80c7816226b819a2320
 SHA256: 05880b3a583bb8207e710690aa1635f0a886dad4cee63b66dbb88be61dfe5884
@@ -167,6 +171,7 @@ Depends: mobilesubstrate, preferenceloader, com.po.libsparkcolourpicker (>= 1.0.
 Architecture: iphoneos-arm
 Filename: ./package/Laetus/Laetus.deb
 Size: 894516
+Installed-Size: 1544
 MD5sum: 702239b0d559d0efb6dc116277cd946a
 SHA1: 333a12c5fe69d4b9122364523456ad2f48312f53
 SHA256: 2bbf64771a0fac1f3f41a59a2579ad021b936d0139de765fa2186b8c4e579b5f
@@ -185,6 +190,7 @@ Depends:
 Architecture: iphoneos-arm
 Filename: ./package/SparkColorPicker/SparkColorPicker.deb
 Size: 122868
+Installed-Size: 424
 MD5sum: 40d40f85b0411a3f3b8be787471176d8
 SHA1: 04bf368d28f177f3d2a48f4152ecfda9469c6906
 SHA256: 3937baa8e29a982d3ba0f3cdc4533a5419fa8d88c4de70186eb5b3d6ff1b2c06
@@ -221,6 +227,7 @@ Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm
 Filename: ./package/Cylinder/Cylinder.deb
 Size: 502376
+Installed-Size: 1419
 MD5sum: 3068ca82fc9bf62f15750168ffa046c7
 SHA1: 3c6b8fe875c415060b61acb28fe83bb9463399d7
 SHA256: ac0956680b2adf7f4c0b74df812f0a715dfab5c1c06656b4b99f2fcf8026fc0a
