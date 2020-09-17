@@ -25,21 +25,39 @@
                         {
                             "url": "https://zinaungnyein.github.io/package/HSL/4.png",
                             "accessibilityText": "Screenshot3"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/HSL/5.png",
+                            "accessibilityText": "Screenshot4"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/HSL/6.png",
+                            "accessibilityText": "Screenshot5"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/HSL/7.png",
+                            "accessibilityText": "Screenshot6"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/HSL/8.png",
+                            "accessibilityText": "Screenshot7"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/HSL/9.png",
+                            "accessibilityText": "Screenshot8"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/HSL/10.png",
+                            "accessibilityText": "Screenshot9"
                         }
                     ],
                     "class": "DepictionScreenshotsView"
                 },
                 {
                     "class": "DepictionHeaderView",
-                    "title": "Laetus",
+                    "title": "Laetus Theme - HSL Laetus 3",
                     "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "Limitless Keyboard Customisation",
-                    "useBoldText": true,
-                    "useBottomMargin": false
+                    "useBottomMargin": true
                 },
                 {
                     "useSpacing": true,
@@ -47,7 +65,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Laetus provides almost unlimited ways to customise the iOS keyboard.<br>\r\n\r\n### Laetus includes several different types of theming\r\n\r\n* Colours: Simply the colours of backgrounds, tints, and text</br>\r\n\r\n\r\n* Image: Select an image from your photo gallery to display in the background\r\n\r\n\r\n* 3 Image Themes: Themes built using images and setup for different screen sizes. Offering a complete keyboard theming experience.\r\n\r\n\r\n* HTML Themes: Themes built using HTML/Javascript/CSS offering an interactive and even animated keyboard theme\r\n\r\n\r\n* Widget Themes: Themes built using Objective-c offering a complete theming experience that can be provided by iOS developers.\r\n\r\n\r\nLaetus also includes various options for customising parts of the keyboard including (But not limited to):\r\n\r\n\r\n* Hide Key Shadows\r\n\r\n\r\n* Hide Key Caps\r\n\r\n\r\n* Customise the gradient that is shown on key popups\r\n\r\n\r\n* Customise the gradient that is shown on key popups\r\n\r\n\r\n* Lots more!",
+                    "markdown": "A minty laetus theme by happysolucki.",
                     "useSpacing": true
                 },
                 {
@@ -63,7 +81,7 @@
                     "class": "DepictionLabelView"
                 },
                 {
-                    "text": "3.0.3",
+                    "text": "1.0.3",
                     "title": "Version",
                     "class": "DepictionTableTextView"
                 },
@@ -72,7 +90,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "Aug 28, 2020",
+                    "text": "Sep 17, 2020",
                     "title": "Released",
                     "class": "DepictionTableTextView"
                 },
@@ -90,7 +108,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "iOS 11-13.6",
+                    "text": "iOS 13-13.7",
                     "title": "Compatibility",
                     "class": "DepictionTableTextView"
                 },
@@ -99,7 +117,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "Spark",
+                    "text": "happysolucki",
                     "title": "Developer",
                     "class": "DepictionTableTextView"
                 },
@@ -158,18 +176,18 @@
             "class": "DepictionStackView",
             "views": [
                 {
-                    "title": "Version 3.0.3",
+                    "title": "1.0.3",
                     "useBoldText": true,
                     "useBottomMargin": true,
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "Fix laetusCurrentLanguage and laetusKeyPlaneDidChange javascript callbacks",
+                    "markdown": "Proper support for XR/11 and X/11 Pro in all supported languages",
                     "useSpacing": false,
                     "class": "DepictionMarkdownView"
                 },
                 {
-                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 28/08/20</small>",
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 17/0/20</small>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -179,6 +197,6 @@
             ]
         }
     ],
-    "tintColor": "#22bbf9",
+    "tintColor": "#FF6F61",
     "minVersion": "0.1"
 }
