@@ -1,0 +1,202 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://zinaungnyein.github.io/package/HSL/SileoBanner.jpg",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "itemCornerRadius": 4.5,
+                    "itemSize": "{200, 350.41333333333336}",
+                    "screenshots": [
+                        {
+                            "url": "https://zinaungnyein.github.io/package/HSL/1.png",
+                            "accessibilityText": "Screenshot0"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/HSL/2.png",
+                            "accessibilityText": "Screenshot1"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/HSL/3.png",
+                            "accessibilityText": "Screenshot2"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/HSL/4.png",
+                            "accessibilityText": "Screenshot3"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/HSL/5.png",
+                            "accessibilityText": "Screenshot4"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/HSL/6.png",
+                            "accessibilityText": "Screenshot5"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/HSL/7.png",
+                            "accessibilityText": "Screenshot6"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/HSL/8.png",
+                            "accessibilityText": "Screenshot7"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/HSL/9.png",
+                            "accessibilityText": "Screenshot8"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/HSL/10.png",
+                            "accessibilityText": "Screenshot9"
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Laetus Theme - HSL Laetus 3",
+                    "useBoldText": true,
+                    "useBottomMargin": true
+                },
+                {
+                    "useSpacing": true,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "A minty laetus theme by happysolucki.\r\n\r\nThe following languages are supported:\r\n\r\n* English\r\n\r\n\r\n* Spanish\r\n\r\n\r\n\* Arabic\r\n\r\n\r\n* Norwegian\r\n\r\n\r\n* German\r\n\r\n\r\n* Russian\r\n\r\n\r\n* Danish\r\n\r\n\r\n* French\r\n\r\n\r\n* Swedish\r\n\r\n\r\n* Tagalong/Filipino\r\n\r\nThe list of supported devices:\r\n\r\n* 3x notched max devices: 11 Pro Max & XS Max\r\n\r\n* 3x notched devices: 11 Pro, XS, X\r\n\r\n* 2x notched devices: 11 & XR\r\n\r\nIt is possible to try this theme on other devices by renaming according to your device type. The list can be found here: [Laetus Documentation](https://github.com/SparkDev97/LaetusDocumentation)",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "Information",
+                    "margins": "{10, 0, 0, 0}",
+                    "fontWeight": "bold",
+                    "fontSize": 17,
+                    "textColor": "#383838",
+                    "alignment": 0,
+                    "class": "DepictionLabelView"
+                },
+                {
+                    "text": "1.0.3",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Sep 17, 2020",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Free",
+                    "title": "Price",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "iOS 13-13.7",
+                    "title": "Compatibility",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "happysolucki",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "Contact",
+                    "margins": "{10, 0, 0, 0}",
+                    "fontWeight": "bold",
+                    "fontSize": 17,
+                    "textColor": "#383838",
+                    "alignment": 0,
+                    "class": "DepictionLabelView"
+                },
+                {
+                    "title": "E-mail",
+                    "action": "mailto:zinaungnyein@icloud.com?subject=[Request Support]",
+                    "openExternal": true,
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "Donate",
+                    "action": "https://paypal.me/theshinyroom?locale.x=en_US",
+                    "openExternal": true,
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "URL": "https://zinaungnyein.github.io/package/Barrier/CydiaIcon.png",
+                    "width": 56,
+                    "height": 56,
+                    "cornerRadius": 4,
+                    "alignment": 1,
+                    "class": "DepictionImageView"
+                },
+                {
+                    "markdown": "<p style=\"color: #FF6F61; font-size: 23px; font-weight: regular; text-align: center; margin-top: 5px; margin-bottom: 26px;\">Pomelon</p><p style=\"color: #FF6F61; font-size: 12px; font-weight: regular; text-align: center;\">Life was A Box of Chocolates</p>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 0,
+                    "class": "DepictionSpacerView"
+                }
+            ]
+        },
+        {
+            "tabname": "Changes",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "title": "1.0.3",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Proper support for XR/11 and X/11 Pro in all supported languages",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 17/09/20</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                }
+            ]
+        }
+    ],
+    "tintColor": "#FF6F61",
+    "minVersion": "0.1"
+}
