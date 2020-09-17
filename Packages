@@ -292,3 +292,21 @@ SileoDepiction: https://zinaungnyein.github.io/package/Barrier/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Barrier/SileoDepiction.json&name=Barrier&section=Tweaks&dev=Po
 Icon: file:///Applications/Cydia.app/Sections/Tweaks0.png
 
+Package: me.pomelon.hsllaetus3
+Version: 1.0.3
+Section: Themes (Laetus)
+Maintainer: happysolucki <happysolucki@outlook.com>
+Depends: firmware (>=13.0)
+Architecture: iphoneos-arm
+Filename: ./package/HSL/HSL_1.0.3.deb
+Size: 998688
+MD5sum: 08a32a98858630972e7c9615994fb99e
+SHA1: d280637ba67656d35ed1c169b3ce2aebb768265e
+SHA256: b17a5e3b3be0dea3d7207540a5d1f4fc22738cffeff925f2e9ffe5aa0e00d73a
+Description: A modern laetus theme.
+Name: HSL Laetus 3
+Author: happysolucki <happysolucki@outlook.com>
+SileoDepiction: https://zinaungnyein.github.io/package/HSL/SileoNative.json
+Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/HSL/SileoDepiction.json&name=HSL-Laetus3&section=Themes&dev=happysolucki
+Icon: file:///Applications/Cydia.app/Sections/Keyboards0.png
+
