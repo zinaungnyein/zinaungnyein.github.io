@@ -1,0 +1,180 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://zinaungnyein.github.io/package/Ciutadella-Rounded-100/SileoBanner.jpg",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "itemCornerRadius": 4.5,
+                    "itemSize": "{70, 360}",
+                    "screenshots": [
+                        {
+                            "url": "https://zinaungnyein.github.io/package/Ciutadella-Rounded-100/1.png",
+                            "accessibilityText": "Screenshot0"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/Ciutadella-Rounded-100/2.png",
+                            "accessibilityText": "Screenshot1"
+                        },
+                        {
+                            "url": "https://zinaungnyein.github.io/package/Ciutadella-Rounded-100/3.png",
+                            "accessibilityText": "Screenshot2"
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<h1>Ciutadella Rounded</h1>\r\n This is 100%. If you'd love to prefer 85% size, please download 86% size in the Fonts section from my repo.\r\n\r\n#### In addition: 85% is normal character size while 100% is bigger.\r\n\r\n<p style='color:#ff325b;'>Requirements: SnowBoard (recommended), A-Font, iThemer</p>\r\n\r\n\r\n\n</br><p style='color:#ff325b;'><u>SnowBoard</u></p>\r\n</br>INSTALL:\r\n\r\n* SnowBoard Application\r\n* SnowBoard Fonts Extension",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Get these from [(Spark Repo).](https://sparkdev.me) \r\n</br>(Fonts will be installed to Library>Themes>Fonts name)\r\n\n</br>",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<p style='color:#ff325b;'><u>A-Font</u></p>",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Get this from [(Merona Repo).](https://repo.rpgfarm.com)",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Follow [(this tutorial)](https://m.youtube.com/watch?feature=youtu.be&v=YBdghFpm8h4) to apply fonts if you are new to A-Font.\r\n\n</br>",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<p style='color:#ff325b;'><u>iThemer</u></p>",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Get this from [(Packix Repo).](https://repo.packix.com)",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.0",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Sep 06, 2020",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Free",
+                    "title": "Price",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "iOS 13-13.6",
+                    "title": "Compatibility",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Alexman",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "URL": "https://zinaungnyein.github.io/package/Barrier/CydiaIcon.png",
+                    "width": 56,
+                    "height": 56,
+                    "cornerRadius": 4,
+                    "alignment": 1,
+                    "class": "DepictionImageView"
+                },
+                {
+                    "markdown": "<p style=\"color: #FF6F61; font-size: 23px; font-weight: regular; text-align: center; margin-top: 5px; margin-bottom: 26px;\">Pomelon</p><p style=\"color: #FF6F61; font-size: 12px; font-weight: regular; text-align: center;\">Life was A Box of Chocolates</p>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 0,
+                    "class": "DepictionSpacerView"
+                }
+            ]
+        },
+        {
+            "tabname": "Changes",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "title": "What's New:",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Update Changes:\r\n\r\n* iOS13 support",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 15/07/20</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "1.0:",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Release:\r\n\r\n* Bugs fixed.",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 06/09/20</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                }
+            ]
+        }
+    ],
+    "tintColor": "#FF6F61",
+    "minVersion": "0.1"
+}

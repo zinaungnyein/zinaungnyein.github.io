@@ -292,6 +292,40 @@ SileoDepiction: https://zinaungnyein.github.io/package/Barrier/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Barrier/SileoDepiction.json&name=Barrier&section=Tweaks&dev=Po
 Icon: file:///Applications/Cydia.app/Sections/Tweaks0.png
 
+Package: me.pomelon.ciutadella-rounded100
+Version: 1.0
+Section: Fonts (iOS13)
+Maintainer: Alexman
+Architecture: iphoneos-arm
+Filename: ./package/Ciutadella-Rounded-100/Ciutadella-Rounded-100.deb
+Size: 29305564
+MD5sum: d110e0ece392018625e984d89a28b7f1
+SHA1: b47c716f6ab2cb94b72e91263a7b8da70b1b054c
+SHA256: 757b3dbea46013dffe5122d35c02104153e3b6dd04e803bb31a8f35187926426
+Description: Ciutadella Rounded font. 100% size. For iOS13.
+Name: Ciutadella Rounded 100% (iOS13)
+Author: Alexman
+SileoDepiction: https://zinaungnyein.github.io/package/Ciutadella-Rounded-100/SileoNative.json
+Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Ciutadella-Rounded-100/SileoDepiction.json&name=Dosis-85&section=Fonts&dev=Alexman
+Icon: file:///Applications/Cydia.app/Sections/Fonts0.png
+
+Package: me.pomelon.ciutadella-rounded85
+Version: 1.0
+Section: Fonts (iOS13)
+Maintainer: Alexman
+Architecture: iphoneos-arm
+Filename: ./package/Ciutadella-Rounded-85/Ciutadella-Rounded-85.deb
+Size: 30773162
+MD5sum: 1cbbc57f2b954b1493c0a36861bc635a
+SHA1: 25fe9853ec9068f18c6a4e9099d64497ad2c03d4
+SHA256: 637a8945ebf6bd606f61487551c0cd00bddec4e0eed1c6de828e39270291df13
+Description: Ciutadella Rounded font. 85% size. For iOS13.
+Name: Ciutadella Rounded 85% (iOS13)
+Author: Alexman
+SileoDepiction: https://zinaungnyein.github.io/package/Ciutadella-Rounded-85/SileoNative.json
+Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Ciutadella-Rounded-85/SileoDepiction.json&name=Dosis-85&section=Fonts&dev=Alexman
+Icon: file:///Applications/Cydia.app/Sections/Fonts0.png
+
 Package: me.pomelon.hsllaetus3
 Version: 1.0.3
 Section: Themes (Laetus)

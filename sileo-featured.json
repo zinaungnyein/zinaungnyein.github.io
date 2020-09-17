@@ -4,9 +4,9 @@
     "itemCornerRadius": 12,
     "banners": [
       {
-        "url": "https://zinaungnyein.github.io/package/FBDarkMode/SileoBanner.jpg",
-        "title": "Facebook Dark Mode",
-        "package": "com.thefatrat.facebooksystemdarkmode",
+        "url": "https://zinaungnyein.github.io/package/HSL/SileoBanner.jpg",
+        "title": "HSL Laetus 3",
+        "package": "me.pomelon.hsllaetus3",
         "hideShadow": false
       },
       {
