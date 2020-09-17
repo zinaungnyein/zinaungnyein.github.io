@@ -65,7 +65,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "A minty laetus theme by happysolucki.\r\n\r\n\r\n\r\n\r\n</br>The following languages are supported:\r\n\r\n* English\r\n\r\n* Spanish\r\n\r\n* Arabic\r\n\r\n* Norwegian\r\n\r\n* German\r\n\r\n* Russian\r\n\r\n* Danish\r\n\r\n* French\r\n\r\n* Swedish\r\n\r\n* Tagalong / Filipino",
+                    "markdown": "A minty laetus theme by happysolucki.\r\n\r\n\r\n\r\n\r\n</br>The following languages are supported:\r\n\r\n* English\r\n\r\n* Spanish\r\n\r\n* Arabic\r\n\r\n* Norwegian\r\n\r\n* German\r\n\r\n* Russian\r\n\r\n* Danish\r\n\r\n* French\r\n\r\n* Swedish\r\n\r\n* Tagalong / Filipino\r\n\r\nThe list of supported devices:\r\n\r\n* 3x notched max devices: 11 Pro Max & XS Max\r\n\r\n* 3x notched devices: 11 Pro, XS, X\r\n\r\n* 2x notched devices: 11 & XR\r\n\r\nIt is possible to try this theme on other devices by renaming according to your device type. The list can be found here: [Laetus Documentation](https://github.com/SparkDev97/LaetusDocumentation)",
                     "useSpacing": true
                 },
                 {
