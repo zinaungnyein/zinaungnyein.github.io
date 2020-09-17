@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://zinaungnyein.github.io/package/HSL/SileoBanner.jpg",
+    "headerImage": "https://zinaungnyein.github.io/package/Laetus/SileoBanner.jpg",
     "tabs": [
         {
             "tabname": "Details",
@@ -11,53 +11,35 @@
                     "itemSize": "{200, 350.41333333333336}",
                     "screenshots": [
                         {
-                            "url": "https://zinaungnyein.github.io/package/HSL/1.png",
+                            "url": "https://zinaungnyein.github.io/package/Laetus/1.png",
                             "accessibilityText": "Screenshot0"
                         },
                         {
-                            "url": "https://zinaungnyein.github.io/package/HSL/2.png",
+                            "url": "https://zinaungnyein.github.io/package/Laetus/2.png",
                             "accessibilityText": "Screenshot1"
                         },
                         {
-                            "url": "https://zinaungnyein.github.io/package/HSL/3.png",
+                            "url": "https://zinaungnyein.github.io/package/Laetus/3.png",
                             "accessibilityText": "Screenshot2"
                         },
                         {
-                            "url": "https://zinaungnyein.github.io/package/HSL/4.png",
+                            "url": "https://zinaungnyein.github.io/package/Laetus/4.png",
                             "accessibilityText": "Screenshot3"
-                        },
-                        {
-                            "url": "https://zinaungnyein.github.io/package/HSL/5.png",
-                            "accessibilityText": "Screenshot4"
-                        },
-                        {
-                            "url": "https://zinaungnyein.github.io/package/HSL/6.png",
-                            "accessibilityText": "Screenshot5"
-                        },
-                        {
-                            "url": "https://zinaungnyein.github.io/package/HSL/7.png",
-                            "accessibilityText": "Screenshot6"
-                        },
-                        {
-                            "url": "https://zinaungnyein.github.io/package/HSL/8.png",
-                            "accessibilityText": "Screenshot7"
-                        },
-                        {
-                            "url": "https://zinaungnyein.github.io/package/HSL/9.png",
-                            "accessibilityText": "Screenshot8"
-                        },
-                        {
-                            "url": "https://zinaungnyein.github.io/package/HSL/10.png",
-                            "accessibilityText": "Screenshot9"
                         }
                     ],
                     "class": "DepictionScreenshotsView"
                 },
                 {
                     "class": "DepictionHeaderView",
-                    "title": "Laetus Theme - HSL Laetus 3",
+                    "title": "Laetus",
                     "useBoldText": true,
-                    "useBottomMargin": true
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Limitless Keyboard Customisation",
+                    "useBoldText": true,
+                    "useBottomMargin": false
                 },
                 {
                     "useSpacing": true,
@@ -65,7 +47,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "A minty laetus theme by happysolucki.\r\n\r\nThe following languages are supported:\r\n\r\n* English\r\n\r\n\r\n* Spanish\r\n\r\n\r\n\* Arabic\r\n\r\n\r\n* Norwegian\r\n\r\n\r\n* German\r\n\r\n\r\n* Russian\r\n\r\n\r\n* Danish\r\n\r\n\r\n* French\r\n\r\n\r\n* Swedish\r\n\r\n\r\n* Tagalong/Filipino\r\n\r\nThe list of supported devices:\r\n\r\n* 3x notched max devices: 11 Pro Max & XS Max\r\n\r\n* 3x notched devices: 11 Pro, XS, X\r\n\r\n* 2x notched devices: 11 & XR\r\n\r\nIt is possible to try this theme on other devices by renaming according to your device type. The list can be found here: [Laetus Documentation](https://github.com/SparkDev97/LaetusDocumentation)",
+                    "markdown": "Laetus provides almost unlimited ways to customise the iOS keyboard.<br>\r\n\r\n### Laetus includes several different types of theming\r\n\r\n* Colours: Simply the colours of backgrounds, tints, and text</br>\r\n\r\n\r\n* Image: Select an image from your photo gallery to display in the background\r\n\r\n\r\n* 3 Image Themes: Themes built using images and setup for different screen sizes. Offering a complete keyboard theming experience.\r\n\r\n\r\n* HTML Themes: Themes built using HTML/Javascript/CSS offering an interactive and even animated keyboard theme\r\n\r\n\r\n* Widget Themes: Themes built using Objective-c offering a complete theming experience that can be provided by iOS developers.\r\n\r\n\r\nLaetus also includes various options for customising parts of the keyboard including (But not limited to):\r\n\r\n\r\n* Hide Key Shadows\r\n\r\n\r\n* Hide Key Caps\r\n\r\n\r\n* Customise the gradient that is shown on key popups\r\n\r\n\r\n* Customise the gradient that is shown on key popups\r\n\r\n\r\n* Lots more!",
                     "useSpacing": true
                 },
                 {
@@ -81,7 +63,7 @@
                     "class": "DepictionLabelView"
                 },
                 {
-                    "text": "1.0.3",
+                    "text": "3.0.3",
                     "title": "Version",
                     "class": "DepictionTableTextView"
                 },
@@ -90,7 +72,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "Sep 17, 2020",
+                    "text": "Aug 28, 2020",
                     "title": "Released",
                     "class": "DepictionTableTextView"
                 },
@@ -108,7 +90,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "iOS 13-13.7",
+                    "text": "iOS 11-13.6",
                     "title": "Compatibility",
                     "class": "DepictionTableTextView"
                 },
@@ -117,7 +99,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "happysolucki",
+                    "text": "Spark",
                     "title": "Developer",
                     "class": "DepictionTableTextView"
                 },
@@ -176,18 +158,18 @@
             "class": "DepictionStackView",
             "views": [
                 {
-                    "title": "1.0.3",
+                    "title": "Version 3.0.3",
                     "useBoldText": true,
                     "useBottomMargin": true,
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "Proper support for XR/11 and X/11 Pro in all supported languages",
+                    "markdown": "Fix laetusCurrentLanguage and laetusKeyPlaneDidChange javascript callbacks",
                     "useSpacing": false,
                     "class": "DepictionMarkdownView"
                 },
                 {
-                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Updated 17/09/20</small>",
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 28/08/20</small>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -197,6 +179,6 @@
             ]
         }
     ],
-    "tintColor": "#FF6F61",
+    "tintColor": "#22bbf9",
     "minVersion": "0.1"
 }
