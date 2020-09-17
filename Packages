@@ -300,13 +300,13 @@ Depends: firmware (>=13.0)
 Architecture: iphoneos-arm
 Filename: ./package/HSL/HSL_1.0.3.deb
 Size: 998688
-MD5sum: 08a32a98858630972e7c9615994fb99e
-SHA1: d280637ba67656d35ed1c169b3ce2aebb768265e
-SHA256: b17a5e3b3be0dea3d7207540a5d1f4fc22738cffeff925f2e9ffe5aa0e00d73a
+MD5sum: 11b4aa3efa9029ec1121ac5d84f335ad
+SHA1: 46f4a68709ed62f982364fd09b48e01af5d10982
+SHA256: bb86c81729e40f9b2d914c7c4280f36411f47e0867292955cec52040e6b2935e
 Description: A modern laetus theme.
 Name: HSL Laetus 3
 Author: happysolucki <happysolucki@outlook.com>
 SileoDepiction: https://zinaungnyein.github.io/package/HSL/SileoNative.json
-Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/HSL/SileoDepiction.json&name=HSL-Laetus3&section=Themes&dev=happysolucki
+Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/HSL/SileoDepiction.json&name=HSL-Laetus3&section=Keyboards&dev=happysolucki
 Icon: file:///Applications/Cydia.app/Sections/Keyboards0.png
 
