@@ -79,7 +79,7 @@
                 },
                 {
                     "text": "Information",
-                    "margins": "{10, 0, 0, 0}",
+                    "margins": "{10, 0, 10, 0}",
                     "fontWeight": "bold",
                     "fontSize": 23,
                     "textColor": "#383838",
@@ -132,7 +132,7 @@
                 },
                 {
                     "text": "Contact",
-                    "margins": "{10, 0, 0, 0}",
+                    "margins": "{10, 0, 10, 0}",
                     "fontWeight": "bold",
                     "fontSize": 23,
                     "textColor": "#383838",
