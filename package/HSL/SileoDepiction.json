@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://zinaungnyein.github.io/package/Laetus/SileoBanner.jpg",
+    "headerImage": "https://zinaungnyein.github.io/package/HSL/SileoBanner.jpg",
     "tabs": [
         {
             "tabname": "Details",
@@ -11,19 +11,19 @@
                     "itemSize": "{200, 350.41333333333336}",
                     "screenshots": [
                         {
-                            "url": "https://zinaungnyein.github.io/package/Laetus/1.png",
+                            "url": "https://zinaungnyein.github.io/package/HSL/1.png",
                             "accessibilityText": "Screenshot0"
                         },
                         {
-                            "url": "https://zinaungnyein.github.io/package/Laetus/2.png",
+                            "url": "https://zinaungnyein.github.io/package/HSL/2.png",
                             "accessibilityText": "Screenshot1"
                         },
                         {
-                            "url": "https://zinaungnyein.github.io/package/Laetus/3.png",
+                            "url": "https://zinaungnyein.github.io/package/HSL/3.png",
                             "accessibilityText": "Screenshot2"
                         },
                         {
-                            "url": "https://zinaungnyein.github.io/package/Laetus/4.png",
+                            "url": "https://zinaungnyein.github.io/package/HSL/4.png",
                             "accessibilityText": "Screenshot3"
                         }
                     ],
