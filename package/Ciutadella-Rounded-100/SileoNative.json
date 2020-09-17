@@ -27,33 +27,33 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<h1>Ciutadella Rounded</h1>\r\n This is 100%. If you'd love to prefer 85% size, please download 86% size in the Fonts section from my repo.\r\n\r\n#### In addition: 85% is normal character size while 100% is bigger.\r\n\r\n<p style='color:#ff325b;'>Requirements: SnowBoard (recommended), A-Font, iThemer</p>\r\n\r\n\r\n\n</br><p style='color:#ff325b;'><u>SnowBoard</u></p>\r\n</br>INSTALL:\r\n\r\n* SnowBoard Application\r\n* SnowBoard Fonts Extension",
-                    "useSpacing": false
+                    "markdown": "# Dosis\r\nThis is 100%. If you'd love to prefer 85% size, please download 85% size in the Fonts section from my repo.\r\n\r\n#### In addition: 85% is normal character size while 100% is bigger.\r\n\r\nRequirements: SnowBoard (recommended), A-Font, iThemer\r\n\r\n\r\n\nSnowBoard\r\n\r\n\r\n\nINSTALL:\r\n\r\n* SnowBoard Application\r\n* SnowBoard Fonts Extension",
+                    "useSpacing": true
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Get these from [(Spark Repo).](https://sparkdev.me) \r\n</br>(Fonts will be installed to Library>Themes>Fonts name)\r\n\n</br>",
-                    "useSpacing": false
+                    "markdown": "Get these from [(Spark Repo).](https://sparkdev.me) \r\n(Fonts will be installed to Library>Themes>Fonts name)",
+                    "useSpacing": true
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<p style='color:#ff325b;'><u>A-Font</u></p>",
+                    "markdown": "A-Font",
                     "useSpacing": true
                 },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "Get this from [(Merona Repo).](https://repo.rpgfarm.com)",
-                    "useSpacing": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Follow [(this tutorial)](https://m.youtube.com/watch?feature=youtu.be&v=YBdghFpm8h4) to apply fonts if you are new to A-Font.\r\n\n</br>",
                     "useSpacing": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<p style='color:#ff325b;'><u>iThemer</u></p>",
+                    "markdown": "Follow [(this tutorial)](https://m.youtube.com/watch?feature=youtu.be&v=YBdghFpm8h4) to apply fonts if you are new to A-Font.",
                     "useSpacing": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "iThemer",
+                    "useSpacing": false
                 },
                 {
                     "class": "DepictionMarkdownView",
@@ -108,7 +108,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "spacing": 8,
+                    "spacing": 10,
                     "class": "DepictionSpacerView"
                 },
                 {
@@ -125,7 +125,7 @@
                     "class": "DepictionMarkdownView"
                 },
                 {
-                    "spacing": 0,
+                    "spacing": 10,
                     "class": "DepictionSpacerView"
                 }
             ]
