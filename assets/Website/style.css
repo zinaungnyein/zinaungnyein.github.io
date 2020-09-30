@@ -14,13 +14,6 @@ body {
 	background-image: linear-gradient(-131deg, #E7B02B 0%, #ff6f61 100%);
 }
 
-.simplebar-scrollbar::after {
-    width: 100%;
-	background-image: linear-gradient(-131deg, #E7B02B 100%, #ff6f61 100%);
-	opacity: 1;
-}
-
-
 .navbar {
     background: rgba(255,255,255,0.6) !important;
     z-index: 2;
