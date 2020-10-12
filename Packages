@@ -11,8 +11,8 @@ SHA256: 16452cf137f6f5c91a5ab5a5c31ee37c09cbe4df0bb6d4eefa93aef0d94fd68b
 Description: Make Your Status Bar Sweet Like a Candy.
 Name: Candy Status Bar
 Author: Devy_Design <idrainmax@gmail.com>
-SileoDepiction: https://zinaungnyein.github.io/package/Candy/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Candy/SileoDepiction.json&name=CandyStatusBar&section=Carrier&dev=Devy_Design
+SileoDepiction: https://zinaungnyein.github.io/package/Candy/SileoNative.json
 Icon: file:///Applications/Cydia.app/Sections/Carrier0.png
 
 Package: com.po.candystatusbar
@@ -28,8 +28,8 @@ SHA256: c335b1e0696af64d4edf88c43ee571dd0f210a954726f6dbf762bdcf12f792a3
 Description: Make Your Status Bar Sweet Like a Candy.
 Name: Candy Status Bar
 Author: Devy_Design <idrainmax@gmail.com>
-SileoDepiction: https://zinaungnyein.github.io/package/Candy/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Candy/SileoDepiction.json&name=CandyStatusBar&section=Carrier&dev=Devy_Design
+SileoDepiction: https://zinaungnyein.github.io/package/Candy/SileoNative.json
 Icon: file:///Applications/Cydia.app/Sections/Carrier0.png
 
 Package: com.po.candystatusbar
@@ -45,8 +45,8 @@ SHA256: 24f91fd8357ef74f35ef55fd2e58e598492cc0598147408fbc3740a540beb20b
 Description: Make Your Status Bar Sweet Like a Candy.
 Name: Candy Status Bar
 Author: Devy_Design <idrainmax@gmail.com>
-SileoDepiction: https://zinaungnyein.github.io/package/Candy/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Candy/SileoDepiction.json&name=CandyStatusBar&section=Carrier&dev=Devy_Design
+SileoDepiction: https://zinaungnyein.github.io/package/Candy/SileoNative.json
 Icon: file:///Applications/Cydia.app/Sections/Carrier0.png
 
 Package: com.po.dosis100
@@ -62,8 +62,8 @@ SHA256: 07f3ab08590b6e681af387e6faf4b94f015f10c0179b10f6cc4095d5d359606c
 Description: Dosis font. 100% size. For iOS13.
 Name: Dosis_100% (iOS13)
 Author: Alexman
-SileoDepiction: https://zinaungnyein.github.io/package/Dosis-100/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Dosis-100/SileoDepiction.json&name=Dosis-100&section=Fonts&dev=Alexman
+SileoDepiction: https://zinaungnyein.github.io/package/Dosis-100/SileoNative.json
 Icon: file:///Applications/Cydia.app/Sections/Fonts0.png
 
 Package: com.po.dosis85
@@ -79,8 +79,8 @@ SHA256: 54431607722d1df7c4d392540269ce7de9f3ce01056c91ca1bffd6851512ec79
 Description: Dosis font. 85% size. For iOS13.
 Name: Dosis (iOS13)
 Author: Alexman
-SileoDepiction: https://zinaungnyein.github.io/package/Dosis-85/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Dosis-85/SileoDepiction.json&name=Dosis-85&section=Fonts&dev=Alexman
+SileoDepiction: https://zinaungnyein.github.io/package/Dosis-85/SileoNative.json
 Icon: file:///Applications/Cydia.app/Sections/Fonts0.png
 
 Package: com.po.homepluspro
@@ -99,8 +99,8 @@ SHA256: 207c502ef9c067d0de520bb16af7fa87043567a325876192583d55cc95d3ad6c
 Description: Dynamic, live homescreen layout with an intuitive UI
 Name: HomePlus Pro
 Author: Kritanta
-SileoDepiction: https://zinaungnyein.github.io/package/HomePlus-Pro/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/HomePlus-Pro/SileoDepiction.json&name=HomePlus-Pro&section=Tools&dev=Kritanta
+SileoDepiction: https://zinaungnyein.github.io/package/HomePlus-Pro/SileoNative.json
 Icon: file:///Applications/Cydia.app/Sections/Tools.png
 
 Package: com.po.kalm
@@ -119,8 +119,8 @@ SHA256: 636e38a5b91146b447df6a406639245e1f14371ffd5931eabbcabdfb0f563bef
 Description: A beautiful first sight.
 Name: Kalm
 Author: ubik <cydia@ubikstyl.es>
-SileoDepiction: https://zinaungnyein.github.io/package/Kalm/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Kalm/SileoDepiction.json&name=Kalm&section=Tweaks&dev=Ubik
+SileoDepiction: https://zinaungnyein.github.io/package/Kalm/SileoNative.json
 Icon: file:///Applications/Cydia.app/Sections/Tweaks0.png
 
 Package: com.po.kalm
@@ -139,8 +139,8 @@ SHA256: 4570754c04d426bee14195a18574dab9bc149e661c77e8f567a9d89ae905d1bb
 Description: A beautiful first sight.
 Name: Kalm
 Author: ubik <cydia@ubikstyl.es>
-SileoDepiction: https://zinaungnyein.github.io/package/Kalm/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Kalm/SileoDepiction.json&name=Kalm&section=Tweaks&dev=Ubik
+SileoDepiction: https://zinaungnyein.github.io/package/Kalm/SileoNative.json
 Icon: file:///Applications/Cydia.app/Sections/Tweaks0.png
 
 Package: com.po.kalm
@@ -159,8 +159,8 @@ SHA256: 05880b3a583bb8207e710690aa1635f0a886dad4cee63b66dbb88be61dfe5884
 Description: A beautiful first sight.
 Name: Kalm
 Author: ubik <cydia@ubikstyl.es>
-SileoDepiction: https://zinaungnyein.github.io/package/Kalm/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Kalm/SileoDepiction.json&name=Kalm&section=Tweaks&dev=Ubik
+SileoDepiction: https://zinaungnyein.github.io/package/Kalm/SileoNative.json
 Icon: file:///Applications/Cydia.app/Sections/Tweaks0.png
 
 Package: com.po.laetus
@@ -178,8 +178,8 @@ SHA256: 2bbf64771a0fac1f3f41a59a2579ad021b936d0139de765fa2186b8c4e579b5f
 Description: Unparalleled Keyboard Customisation
 Name: Laetus
 Author: Spark
-SileoDepiction: https://zinaungnyein.github.io/package/Laetus/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Laetus/SileoDepiction.json&name= Laetus&section=Keyboards&dev=Spark
+SileoDepiction: https://zinaungnyein.github.io/package/Laetus/SileoNative.json
 Icon: file:///Applications/Cydia.app/Sections/Keyboards0.png
 
 Package: com.po.libsparkcolourpicker
@@ -197,8 +197,8 @@ SHA256: 3937baa8e29a982d3ba0f3cdc4533a5419fa8d88c4de70186eb5b3d6ff1b2c06
 Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
 Name: libsparkcolourpicker
 Author: Spark
-SileoDepiction: https://zinaungnyein.github.io/package/SparkColorPicker/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/SparkColorPicker/SileoDepiction.json&name= LibSparkColorPicker&section=System&dev=Spark
+SileoDepiction: https://zinaungnyein.github.io/package/SparkColorPicker/SileoNative.json
 Icon: file:///Applications/Cydia.app/Sections/System0.png
 
 Package: com.thefatrat.circleicons
@@ -215,8 +215,8 @@ SHA256: 007e612dcb60bee2119b9d8c76c25204e912ebfe99ffbcd1ffb70aa0097a04b3
 Description: Circle Icons with cool overlays!
 Name: CircleIcons
 Author: CoolStar <zinaungnyein@icloud.com>
-SileoDepiction: https://zinaungnyein.github.io/package/CircleIcons/Sileo/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/CircleIcons/SileoDepiction.json&name=CircleIcons&section=Themes&dev=coolstar
+SileoDepiction: https://zinaungnyein.github.io/package/CircleIcons/Sileo/SileoNative.json
 Icon: file:///Applications/Cydia.app/Sections/Themes0.png
 
 Package: com.thefatrat.cylinder
@@ -234,8 +234,8 @@ SHA256: ac0956680b2adf7f4c0b74df812f0a715dfab5c1c06656b4b99f2fcf8026fc0a
 Description: Make your icons dance
 Name: Cylinder
 Author: Reed Weichler
-SileoDepiction: https://zinaungnyein.github.io/package/Cylinder/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Cylinder/SileoDepiction.json&name=Cylinder&section=Tweaks&dev=ReedWeichler
+SileoDepiction: https://zinaungnyein.github.io/package/Cylinder/SileoNative.json
 Icon: file:///Applications/Cydia.app/Sections/Tweaks0.png
 
 Package: com.thefatrat.facebooksystemdarkmode
@@ -252,8 +252,8 @@ SHA256: e42466ffb76ff82174fc0852e51d4f758b97eaaab76520ebba9aa0fbe6992237
 Description: A tweak that enables Facebook Dark Mode Option under Facebook Application settings.
 Name: FB Dark Mode
 Author: Zin Aung Nyein
-SileoDepiction: https://zinaungnyein.github.io/package/FBDarkMode/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/FBDarkMode/SileoDepiction.json&name=FBDarkMode&section=Themes&dev=ZinAungNyein
+SileoDepiction: https://zinaungnyein.github.io/package/FBDarkMode/SileoNative.json
 Icon: file:///Applications/Cydia.app/Sections/Themes0.png
 
 Package: com.zinaungnyein.icone
@@ -270,8 +270,8 @@ SHA256: ea80acbceb498709cc4c51a38af23a274cae96a5a1d222920352010be55d430a
 Description: Official Po's Repo Icons
 Name: Repo Icons
 Author: Po
-SileoDepiction: https://zinaungnyein.github.io/package/RepoIcons/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/RepoIcons/SileoDepiction.json&name=RepoIcons&dev=Po&section=System
+SileoDepiction: https://zinaungnyein.github.io/package/RepoIcons/SileoNative.json
 
 Package: me.po.barrier
 Version: 1.0
@@ -288,8 +288,8 @@ SHA256: 5d19a09873710474cf4973934615887de345cbff7a13d6946e53a6b75e12f68b
 Description: A tweak to disable ads in YouTube application.
 Name: Barrier
 Author: Po <zinaungnyein@icloud.com>
-SileoDepiction: https://zinaungnyein.github.io/package/Barrier/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Barrier/SileoDepiction.json&name=Barrier&section=Tweaks&dev=Po
+SileoDepiction: https://zinaungnyein.github.io/package/Barrier/SileoNative.json
 Icon: file:///Applications/Cydia.app/Sections/Tweaks0.png
 
 Package: me.pomelon.ciutadella-rounded100
@@ -305,8 +305,8 @@ SHA256: dea9c84ba7109301adc3b870eab260b7fd6ba265107a4959b11f2955650b49cf
 Description: Ciutadella Rounded font. 100% size. For iOS13.
 Name: Ciutadella Rounded 100% (iOS13)
 Author: Alexman
-SileoDepiction: https://zinaungnyein.github.io/package/Ciutadella-Rounded-100/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Ciutadella-Rounded-100/SileoDepiction.json&name=Ciutadella-Rounded-100&section=Fonts&dev=Alexman
+SileoDepiction: https://zinaungnyein.github.io/package/Ciutadella-Rounded-100/SileoNative.json
 Icon: file:///Applications/Cydia.app/Sections/Fonts0.png
 
 Package: me.pomelon.ciutadella-rounded85
@@ -322,8 +322,8 @@ SHA256: d4be86976e52b2fffda2cd0edb8d6a30ab18f0f5adcf9ea9c2835dcc39b9c659
 Description: Ciutadella Rounded font. 85% size. For iOS13.
 Name: Ciutadella Rounded 85% (iOS13)
 Author: Alexman
-SileoDepiction: https://zinaungnyein.github.io/package/Ciutadella-Rounded-85/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/Ciutadella-Rounded-85/SileoDepiction.json&name=Ciutadella-Rounded85&section=Fonts&dev=Alexman
+SileoDepiction: https://zinaungnyein.github.io/package/Ciutadella-Rounded-85/SileoNative.json
 Icon: file:///Applications/Cydia.app/Sections/Fonts0.png
 
 Package: me.pomelon.hsllaetus3
@@ -340,7 +340,7 @@ SHA256: bb86c81729e40f9b2d914c7c4280f36411f47e0867292955cec52040e6b2935e
 Description: A modern laetus theme.
 Name: HSL Laetus 3
 Author: happysolucki <happysolucki@outlook.com>
-SileoDepiction: https://zinaungnyein.github.io/package/HSL/SileoNative.json
 Depiction: https://zinaungnyein.github.io/po/?json=https://zinaungnyein.github.io/package/HSL/SileoDepiction.json&name=HSL-Laetus3&section=Keyboards&dev=happysolucki
+SileoDepiction: https://zinaungnyein.github.io/package/HSL/SileoNative.json
 Icon: file:///Applications/Cydia.app/Sections/Keyboards0.png
 
